@@ -1,0 +1,3267 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "order_index": 1,
+      "title": "Foundations",
+      "description": "Master the Somali alphabet, essential greetings, and fundamental phonological concepts including sound changes and stress patterns.",
+      "color": "#22c55e",
+      "icon": "alphabet",
+      "lessons": [
+        {
+          "id": 1,
+          "order_index": 1,
+          "title": "The Somali Alphabet",
+          "description": "Learn the 21 consonants, 5 vowels, and special sounds (x, c, q, kh, dh) of the Somali Latin-based alphabet, along with basic phonological concepts.",
+          "grammar_topic": "Phonology",
+          "cultural_note": "Somali uses a Latin-based orthography that was officially adopted in 1972, making Somali one of the few African languages with a writing system that perfectly matches its phonology. This made literacy campaigns highly successful.",
+          "estimated_minutes": 8,
+          "difficulty": "easy",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "Which Somali letter represents a voiceless pharyngeal fricative made in the throat?",
+              "question_translation": null,
+              "correct_answer": "x",
+              "options": [
+                "x",
+                "h",
+                "kh",
+                "q"
+              ],
+              "hint": "This sound is produced deep in the throat between the voice box and the uvula.",
+              "explanation": "The letter x represents a voiceless pharyngeal fricative [ħ], a characteristic sound of Somali and other Cushitic languages. It is distinct from h (glottal) and kh (velar).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "multiple_choice",
+              "question": "What sound does the Somali letter 'c' represent?",
+              "question_translation": null,
+              "correct_answer": "A voiced pharyngeal fricative or epiglottal plosive",
+              "options": [
+                "A glottal stop like in 'uh-oh'",
+                "A voiced pharyngeal fricative or epiglottal plosive",
+                "The same as English 'c' in 'cat'",
+                "A palatal click"
+              ],
+              "hint": "It is one of the most distinctive sounds in Somali.",
+              "explanation": "The letter c represents a voiced pharyngeal fricative [ʕ] or epiglottal plosive, produced deep in the throat. It is NOT the English 'c' sound. This is one of the hardest sounds for English speakers to master.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each Somali special letter to its sound description.",
+              "question_translation": null,
+              "correct_answer": "x:pharyngeal fricative|c:voiced pharyngeal|q:uvular stop|kh:voiceless velar fricative|dh:voiced retroflex stop",
+              "options": [
+                "x:pharyngeal fricative|c:voiced pharyngeal|q:uvular stop|kh:voiceless velar fricative|dh:voiced retroflex stop"
+              ],
+              "hint": "Each of these letters represents a sound not found in English.",
+              "explanation": "x = voiceless pharyngeal fricative [ħ], c = voiced pharyngeal fricative [ʕ], q = voiceless uvular stop [q], kh = voiceless velar fricative [x], dh = voiced retroflex stop [ɖ]. These are essential for correct pronunciation.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "fill_blank",
+              "question": "Somali has ___ consonants and ___ vowels in its alphabet.",
+              "question_translation": null,
+              "correct_answer": "21,5",
+              "options": [
+                "21,5"
+              ],
+              "hint": "Count carefully — Somali has more consonants than English but fewer vowel symbols.",
+              "explanation": "The Somali alphabet has 21 consonants (including the 5 special ones: x, c, q, kh, dh) and 5 vowels (a, e, i, o, u). Each vowel can be long or short, giving 10 vowel qualities.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 5,
+              "type": "multiple_choice",
+              "question": "Which of the following letters represents a voiced retroflex stop, similar to a 'd' made with the tongue curled back?",
+              "question_translation": null,
+              "correct_answer": "dh",
+              "options": [
+                "d",
+                "dh",
+                "r",
+                "l"
+              ],
+              "hint": "Think about which Somali letter pairs with 'd' but has a distinct retroflex pronunciation.",
+              "explanation": "The letter dh represents a voiced retroflex stop [ɖ], where the tongue tip is curled back to touch the hard palate. This is distinct from plain d [d], which is dental/alveolar.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "Identify the sound type of the underlined letter in the word 'khayr' (goodness): kh represents a ___ fricative.",
+              "question_translation": null,
+              "correct_answer": "voiceless velar",
+              "options": [
+                "voiceless velar"
+              ],
+              "hint": "Where in the mouth is this sound made? It's further back than the throat sounds.",
+              "explanation": "kh represents a voiceless velar fricative [x], like the 'ch' in Scottish 'loch' or German 'Bach'. It is produced at the velum (soft palate), further back than h but not as far back as the pharyngeal sounds.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "order_index": 2,
+          "title": "Greetings & Introductions",
+          "description": "Master essential Somali greetings, responses, and the cultural significance of peace-based salutations.",
+          "grammar_topic": "Vocabulary",
+          "cultural_note": "Somali greetings always begin with an inquiry about well-being. It is considered rude to jump straight to business without first exchanging 'Is ka warran' and its response. Peace (nabad) is a central cultural value.",
+          "estimated_minutes": 6,
+          "difficulty": "easy",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What does 'Nabad galyo' mean in Somali?",
+              "question_translation": null,
+              "correct_answer": "Welcome (greeting to someone arriving)",
+              "options": [
+                "Goodbye",
+                "Welcome (greeting to someone arriving)",
+                "How are you?",
+                "Good morning"
+              ],
+              "hint": "Nabad means 'peace', and galyo relates to entering/coming in.",
+              "explanation": "Nabad galyo literally means 'peace (upon your) entry' — it is the traditional Somali greeting for someone arriving at your home or gathering. It reflects the cultural value placed on peace and hospitality.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "Complete the greeting: '___ wanaagsan' means 'Good morning'.",
+              "question_translation": null,
+              "correct_answer": "Subax",
+              "options": [
+                "Subax"
+              ],
+              "hint": "This word means 'morning' in Somali.",
+              "explanation": "Subax wanaagsan means 'Good morning' (literally: morning good). Subax = morning, wanaagsan = good. The pattern [time word] + wanaagsan is used for all time-of-day greetings.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "How do you say 'Good afternoon' in Somali?",
+              "question_translation": null,
+              "correct_answer": "Galab wanaagsan",
+              "options": [
+                "Habeen wanaagsan",
+                "Galab wanaagsan",
+                "Subax wanaagsan",
+                "Nabad"
+              ],
+              "hint": "Galab means 'afternoon/evening' and wanaagsan means 'good'.",
+              "explanation": "Galab wanaagsan = Good afternoon/evening. Galab = afternoon/evening. The greeting structure follows the same pattern as Subax wanaagsan (good morning) and Habeen wanaagsan (good night).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "matching",
+              "question": "Match each Somali greeting to its English meaning.",
+              "question_translation": null,
+              "correct_answer": "Is ka warran:How are you?|Nabad miyaa: Is there peace?|Subax wanaagsan:Good morning|Habeen wanaagsan:Good night|Nabad galyo:Welcome",
+              "options": [
+                "Is ka warran:How are you?|Nabad miyaa: Is there peace?|Subax wanaagsan:Good morning|Habeen wanaagsan:Good night|Nabad galyo:Welcome"
+              ],
+              "hint": "Each of these greetings follows Somali cultural patterns built around the concept of peace (nabad).",
+              "explanation": "Is ka warran = What's the news / How are you?; Nabad miyaa = Is (there) peace? (a traditional check-in); Subax wanaagsan = Good morning; Habeen wanaagsan = Good night; Nabad galyo = Welcome (peace upon entry).",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The common response to 'Is ka warran' (How are you?) is '___' meaning '(I am) fine/peaceful'.",
+              "question_translation": null,
+              "correct_answer": "Nabad",
+              "options": [
+                "Nabad",
+                "Waa fiicanahay"
+              ],
+              "hint": "This word means 'peace' and is the standard affirmative response.",
+              "explanation": "The answer is simply 'Nabad' (Peace) or 'Waan fiicanahay' (I am fine). Somali greetings often center on the concept of peace (nabad), reflecting its cultural importance. The full response to Is ka warran is typically 'Waan fiicanahay, mahadsanid' (I am fine, thank you).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Arrange the words to form 'How are you (plural)?' in Somali.",
+              "question_translation": null,
+              "correct_answer": "Is ka warran",
+              "options": [
+                "Is",
+                "ka",
+                "warran"
+              ],
+              "hint": "This three-word phrase literally means 'What's the news?' and is the most common greeting.",
+              "explanation": "Is ka warran = How are you / What's the news? It is the standard Somali greeting used for both singular and plural, though with close friends you might use the more informal 'Sidee tahay?' (How are you?).",
+              "difficulty": "easy",
+              "points": 10
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "order_index": 3,
+          "title": "Basic Sounds",
+          "description": "Understand Somali consonant clusters, stress-tone patterns, and morphophonological sound changes (t→d, t→dh, lt→sh, vowel changes).",
+          "grammar_topic": "Phonology",
+          "cultural_note": "Somali's stress-tone system distinguishes meaning. For example, 'dóor' (nail) with high tone is different from 'door' (selection) with low tone. Tone is not marked in writing, so context is crucial.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "Where does primary stress typically fall in Somali words?",
+              "question_translation": null,
+              "correct_answer": "On the penultimate (second-to-last) syllable",
+              "options": [
+                "On the first syllable",
+                "On the penultimate (second-to-last) syllable",
+                "On the last syllable",
+                "Stress is always equal on all syllables"
+              ],
+              "hint": "Think about which syllable carries emphasis in a typical Somali word.",
+              "explanation": "Somali has penultimate stress, meaning the primary stress falls on the second-to-last syllable. For example: in 'akHRIya' (read!), the stress is on the penultimate syllable 'khri'. Combined with tone (high/low pitch), this creates the stress-tone system.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "In Somali, the sound change t → d occurs when a suffix beginning with t is added to a stem ending in a voiced sound. For example, 'wadar' (forum) from wad + tar shows this ___ assimilation.",
+              "question_translation": null,
+              "correct_answer": "voicing",
+              "options": [
+                "voicing"
+              ],
+              "hint": "The t becomes d because it assimilates to the voicing of the preceding consonant.",
+              "explanation": "This is an example of regressive voicing assimilation. When a suffix beginning with t is added after a voiced consonant (like d), the t becomes voiced to d. Sound changes like t→d, t→dh, and n→l/r are common in Somali morphophonology.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "What happens to the final 't' of the definite article -ta when it follows a noun ending in 'l'?",
+              "question_translation": null,
+              "correct_answer": "It becomes 'sh' (lt → sh)",
+              "options": [
+                "It becomes 'd' (t → d)",
+                "It becomes 'dh' (t → dh)",
+                "It becomes 'sh' (lt → sh)",
+                "It disappears"
+              ],
+              "hint": "Consider what happens when l and t come together in Somali phonology.",
+              "explanation": "Somali has a sound change rule: lt → sh. When the definite article suffix -ta follows a noun ending in l, the combination becomes -sha. For example: fool (face) + ta → foolsha (the face). This is one of several morphophonological changes in Somali.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "grammar_identify",
+              "question": "In the word combination 'ninkii' (the man), the suffix -kii contains the definite article marker. What sound change has occurred if the original noun was 'nin' (man)?",
+              "question_translation": null,
+              "correct_answer": "No change; -kii is the distal definite form for masculine nouns",
+              "options": [
+                "t → d",
+                "n → l/r",
+                "No change; -kii is the distal definite form for masculine nouns",
+                "Vowel lengthening"
+              ],
+              "hint": "-kii is a special definite article form used in specific grammatical contexts, not a basic -ka form.",
+              "explanation": "-kii is the distal/definite article form (masculine) used with subject case and in specific constructions. It is not a sound change from -ka, but a distinct grammatical form. nin (man) + kii → ninkii (the man [subject]). The -ii ending marks both definiteness and subject case.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 5,
+              "type": "multiple_choice",
+              "question": "Which of the following demonstrates the n → r sound change in Somali?",
+              "question_translation": null,
+              "correct_answer": "Wiil + ta → wiilka (the boy)",
+              "options": [
+                "Wad + tar → wadar",
+                "Fool + ta → foolsha",
+                "Wiil + ta → wiilka",
+                "Nin + ta → ninkii"
+              ],
+              "hint": "Look for where n changes to another consonant before the article suffix.",
+              "explanation": "Actually, none perfectly show n→r in this list. The n→r change is less common. The most common changes are: t→d (after voiced consonants), t→dh (after certain consonants), n→l/r (in specific environments), and lt→sh. The definite article -ta after certain stems shows these changes: -ta becomes -da after voiced consonants, -sha after l, and may show other assimilations.",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "order_index": 2,
+      "title": "Noun System",
+      "description": "Master Somali noun gender, the definite article system, plural formation patterns, and the four grammatical cases.",
+      "color": "#3b82f6",
+      "icon": "book",
+      "lessons": [
+        {
+          "id": 4,
+          "order_index": 1,
+          "title": "Noun Gender",
+          "description": "Learn that Somali nouns are masculine or feminine with no fixed rules, and how gender affects article selection and agreement.",
+          "grammar_topic": "Noun Morphology",
+          "cultural_note": "In Somali, grammatical gender does not always match natural gender. For example, some words for female animals may be grammatically masculine. Always learn the article with the noun.",
+          "estimated_minutes": 8,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "In Somali, how is grammatical gender determined for nouns?",
+              "question_translation": null,
+              "correct_answer": "Gender must be memorized for each noun; there are no fixed rules",
+              "options": [
+                "By the noun's ending: -o is masculine, -e is feminine",
+                "By biological sex only",
+                "Gender must be memorized for each noun; there are no fixed rules",
+                "By semantic category: all animals are masculine"
+              ],
+              "hint": "Somali noun gender works differently from Romance languages.",
+              "explanation": "Somali nouns are either masculine or feminine, but there are NO fixed rules. Gender must be learned with each noun. However, there are patterns: many nouns ending in -e are feminine (e.g., naag-e 'woman'), but there are many exceptions. The gender determines which article suffix is used (-ka/-ga for masculine, -ta/-da for feminine).",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "The word 'gabar' (girl) is a ___ noun and takes the definite article '-ta/-da'.",
+              "question_translation": null,
+              "correct_answer": "feminine",
+              "options": [
+                "feminine",
+                "masculine"
+              ],
+              "hint": "Even though 'gabar' refers to a female person, you need to know its grammatical gender.",
+              "explanation": "Gabar (girl) is grammatically FEMININE. This is one case where grammatical gender matches natural gender. But note: many nouns referring to females are grammatically masculine, and vice versa. The article -ta/-da is used with feminine nouns: gabarta (the girl).",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "Which article suffix would the noun 'wiil' (boy) take in the definite form?",
+              "question_translation": null,
+              "correct_answer": "-ka (masculine)",
+              "options": [
+                "-ta (feminine)",
+                "-ka (masculine)",
+                "-ga (masculine variant)",
+                "Either -ka or -ta"
+              ],
+              "hint": "You need to know the gender of 'wiil' to select the correct article.",
+              "explanation": "Wiil (boy) is a masculine noun, so it takes -ka as its definite article: wiilka (the boy). For masculine nouns ending in a consonant, the article is -ka. For masculine nouns ending in a vowel, it may be -ga (e.g., abbe 'father' → abbe-ga 'the father').",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "matching",
+              "question": "Match each noun to its grammatical gender.",
+              "question_translation": null,
+              "correct_answer": "guri:masculine|naag:feminine|wiil:masculine|gabar:feminine|nin:masculine|hooyo:feminine",
+              "options": [
+                "guri:masculine|naag:feminine|wiil:masculine|gabar:feminine|nin:masculine|hooyo:feminine"
+              ],
+              "hint": "Guri = house, naag = woman, wiil = boy, gabar = girl, nin = man, hooyo = mother.",
+              "explanation": "Guri (house) = masculine → guriga (the house); Naag (woman) = feminine → naagta (the woman); Wiil (boy) = masculine → wiilka; Gabar (girl) = feminine → gabarta; Nin (man) = masculine → ninka; Hooyo (mother) = feminine → hooyada.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "The word 'shaah' (tea) is feminine. What is the definite form 'the tea'?",
+              "question_translation": null,
+              "correct_answer": "shaaha",
+              "options": [
+                "shaaha"
+              ],
+              "hint": "Feminine nouns with the article suffix -ta may show vowel changes: when the noun ends in two consonants or has certain patterns, the article may appear as -ha.",
+              "explanation": "Shaah (tea) is feminine. The definite form is shaaha (the tea). With feminine nouns ending in two consonants (like shaah), the article suffix appears as -ha rather than -ta. This is an assimilation pattern: shaah + ta → shaaha.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "multiple_choice",
+              "question": "Many nouns ending in -e (like naage 'woman', qofe 'person') tend to be which gender?",
+              "question_translation": null,
+              "correct_answer": "Mostly feminine, but with exceptions",
+              "options": [
+                "Always masculine",
+                "Always feminine",
+                "Mostly feminine, but with exceptions",
+                "Neuter (no gender)"
+              ],
+              "hint": "There is a tendency but not a fixed rule for -e ending nouns.",
+              "explanation": "Many nouns ending in -e are feminine (naage 'woman', gabadhe 'young girl'), but there are significant exceptions. This is only a tendency, not a rule. The safest approach is to learn the gender with each noun. The -e ending is actually a remnant of an old feminine marker in Cushitic languages.",
+              "difficulty": "medium",
+              "points": 10
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "order_index": 2,
+          "title": "Definite Article",
+          "description": "Master the definite article suffixes (-ka/-ga for masculine, -ta/-da for feminine) and the phonological changes that occur when they attach to nouns.",
+          "grammar_topic": "Noun Morphology",
+          "cultural_note": "Somali has no indefinite article ('a/an'). A bare noun like 'buug' can mean 'a book' or 'book' in general. Context determines the meaning. The definite article is used much more frequently than in English.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What is the definite article suffix for masculine nouns in Somali?",
+              "question_translation": null,
+              "correct_answer": "-ka (or -ga after vowels)",
+              "options": [
+                "-ta/-da",
+                "-ka (or -ga after vowels)",
+                "-ha",
+                "-ii/-ee"
+              ],
+              "hint": "The article suffix attaches directly to the noun and varies by gender and the final sound of the noun.",
+              "explanation": "Masculine nouns take -ka as the definite article (e.g., wiilka 'the boy'). After nouns ending in a vowel, -ka becomes -ga due to vowel-consonant harmony (e.g., abbe 'father' → abbe-ga 'the father'). Feminine nouns take -ta/-da.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "The definite article for feminine nouns is ___ (or ___ after voiced consonants).",
+              "question_translation": null,
+              "correct_answer": "-ta,-da",
+              "options": [
+                "-ta,-da"
+              ],
+              "hint": "The feminine article changes its initial consonant in certain phonological environments.",
+              "explanation": "Feminine nouns take -ta as the definite article. However, after voiced consonants, -ta becomes -da due to voicing assimilation. Example: naag (woman) + ta → naagta, but gabadh (girl) + ta → gabadhda (the voiced dh causes t→d).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each noun to its definite form.",
+              "question_translation": null,
+              "correct_answer": "buug:buugga|guri:guriga|shaah:shaaha|naag:naagta|caano:caanaha|subag:subagga",
+              "options": [
+                "buug:buugga|guri:guriga|shaah:shaaha|naag:naagta|caano:caanaha|subag:subagga"
+              ],
+              "hint": "Watch for sound changes: -ka becomes -ga after vowels, and feminine nouns may show -ha instead of -ta.",
+              "explanation": "Buug (book, masc) → buug-ga (the book, vowel changes k→g after the vowel of buug); Guri (house, masc) → guri-ga; Shaah (tea, fem) → shaah-a (the tea, shows special feminine assimilation); Naag (woman, fem) → naag-ta; Caano (milk, fem) → caanaha; Subag (butter/oil, masc) → subag-ga.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "fill_blank",
+              "question": "Form the definite: '___' (the book). Noun: buug (book, masculine).",
+              "question_translation": null,
+              "correct_answer": "buugga",
+              "options": [
+                "buugga"
+              ],
+              "hint": "The noun buug ends in a vowel sound, which triggers a change in the article suffix.",
+              "explanation": "Buugga = the book. Buug (book) is masculine. Since buug ends in a vowel-like sound, the article -ka becomes -ga: buug + ga → buugga. This voicing assimilation after vowels is a regular phonological rule.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 5,
+              "type": "multiple_choice",
+              "question": "Which sound change occurs when adding the article -ta to a noun ending in 'dh' (voiced)?",
+              "question_translation": null,
+              "correct_answer": "t → d (voicing assimilation)",
+              "options": [
+                "t → dh",
+                "t → d (voicing assimilation)",
+                "t → sh",
+                "No change occurs"
+              ],
+              "hint": "The voiced consonant 'dh' influences the following voiceless 't'.",
+              "explanation": "When the feminine article -ta follows a voiced consonant like dh, the t assimilates in voicing and becomes d. Example: gabadh (girl, fem) + ta → gabadhda (the girl). This is regressive voicing assimilation — the preceding voiced sound causes the following voiceless sound to become voiced.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In 'caanaha' (the milk), what is the definite article suffix, and what phonological process produced this form from caano + ta?",
+              "question_translation": null,
+              "correct_answer": "-ha from caano + ta with vowel assimilation and consonant change",
+              "options": [
+                "-ha from caano + ta with vowel assimilation and consonant change",
+                "-ta with no change",
+                "-da from voicing assimilation",
+                "-ga from masculine article"
+              ],
+              "hint": "Caano is a feminine noun, but the article doesn't look like -ta or -da.",
+              "explanation": "Caano (milk, feminine) + ta → caanaha. The feminine article -ta undergoes changes: after the vowel -o, the t becomes h (a morphophonological rule for certain feminine nouns ending in -o), and the vowel harmonizes. This is an irregular but common pattern for certain feminine nouns ending in -o.",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "order_index": 3,
+          "title": "Plural Formation",
+          "description": "Learn the multiple ways Somali nouns form plurals: -o suffix, -ag suffix, -yo suffix, reduplication, and internal vowel changes.",
+          "grammar_topic": "Noun Morphology",
+          "cultural_note": "Somali plural formation is complex and often unpredictable. Unlike English's regular -s, Somali requires memorizing the plural for each noun. Some nouns even have multiple plural forms with slightly different meanings.",
+          "estimated_minutes": 12,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What is the most common way to form plurals in Somali?",
+              "question_translation": null,
+              "correct_answer": "Adding the suffix -o",
+              "options": [
+                "Adding -s like English",
+                "Adding the suffix -o",
+                "Reduplication (doubling the stem)",
+                "Internal vowel change only"
+              ],
+              "hint": "Somali has multiple plural patterns, but one is by far the most frequent.",
+              "explanation": "The most common plural formation in Somali is adding the suffix -o (or -yo/-oy after certain stems). Example: guri (house) → guryo (houses); buug (book) → buugag (books, with -ag variant). However, Somali has several plural patterns, and the correct one must often be memorized with each noun.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "The plural of 'naag' (woman) is '___'.",
+              "question_translation": null,
+              "correct_answer": "naago",
+              "options": [
+                "naago"
+              ],
+              "hint": "Many feminine nouns form their plural by adding -o to the stem.",
+              "explanation": "Naago = women. Naag (woman) + o → naago. This follows the most common plural pattern of adding -o. The plural article is -ta/-da, so 'the women' = naag-ta (with the definite article suffix).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each singular noun to its correct plural form.",
+              "question_translation": null,
+              "correct_answer": "guri:guryo|nin:niman|gabar:gabdhayo|buug:buugag|wiil:wiilal|naag:naago",
+              "options": [
+                "guri:guryo|nin:niman|gabar:gabdhayo|buug:buugag|wiil:wiilal|naag:naago"
+              ],
+              "hint": "Somali plurals use multiple patterns: -o, -yo, -ag, reduplication, and vowel changes.",
+              "explanation": "Guri → guryo (add -yo with y-insertion); Nin → niman (plural with -an, from old pattern); Gabar → gabdhayo (reduplication with -yo, very irregular); Buug → buugag (add -ag, common for masculine nouns); Wiil → wiilal (reduplication pattern); Naag → naago (add -o, most common pattern).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "Which plural suffix is commonly used with masculine nouns ending in a consonant?",
+              "question_translation": null,
+              "correct_answer": "-ag (e.g., buug → buugag)",
+              "options": [
+                "-o (always)",
+                "-ag (e.g., buug → buugag)",
+                "-yo (always)",
+                "-aal"
+              ],
+              "hint": "Certain noun classes tend to use specific plural patterns.",
+              "explanation": "The suffix -ag is commonly used with masculine nouns, especially those ending in a consonant: buug (book) → buugag (books); ged (tree) → gedag (trees). However, this is a tendency, not a rule — many masculine nouns use -o or other patterns instead.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The word 'niman' (men) is the plural of 'nin'. This plural is formed by ___ the stem vowel and adding a suffix.",
+              "question_translation": null,
+              "correct_answer": "changing",
+              "options": [
+                "changing"
+              ],
+              "hint": "Nin → niman involves both a vowel change and a suffix.",
+              "explanation": "Nin (man) → niman (men). This is an old Cushitic plural pattern where the stem vowel changes (i → a) and the suffix -n is added. This pattern is common for a class of masculine nouns referring to people. It is sometimes called the 'broken plural' pattern.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "word_bank",
+              "question": "Form the plural of 'gabar' (girl) using the available morphological information.",
+              "question_translation": null,
+              "correct_answer": "gabdhayo",
+              "options": [
+                "gabdhayo"
+              ],
+              "hint": "This is one of the most irregular plurals in Somali.",
+              "explanation": "Gabar (girl) → gabdhayo (girls). This plural involves reduplication and suffixation: the root gab- appears twice with dh inserted, plus the plural suffix -yo. It is one of the most irregular plural forms and must be memorized. The definite form is gabdhayada (the girls).",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "order_index": 4,
+          "title": "Noun Cases",
+          "description": "Learn the four grammatical cases in Somali — subject, object, genitive, and vocative — and how suffixes mark each case.",
+          "grammar_topic": "Noun Morphology",
+          "cultural_note": "The vocative case is commonly used in Somali poetry and everyday speech. Addressing someone properly is culturally important — using the vocative form shows respect and attention.",
+          "estimated_minutes": 12,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How many grammatical cases do Somali nouns have?",
+              "question_translation": null,
+              "correct_answer": "Four: subject, object, genitive, vocative",
+              "options": [
+                "Two: nominative and accusative",
+                "Three: subject, object, genitive",
+                "Four: subject, object, genitive, vocative",
+                "Six like Latin"
+              ],
+              "hint": "Somali uses a system of case marking through suffixes.",
+              "explanation": "Somali nouns have four grammatical cases marked by suffixes: 1) SUBJECT case (focus/subject marker, often -u/-i), 2) OBJECT case (default/citation form), 3) GENITIVE case (possessive, often -a/-e), 4) VOCATIVE case (calling/addressing, often -o/-ow). The object case is the citation form of the noun.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "In the sentence 'Wiilku wuu cunay' (The boy ate it), 'wiilku' shows the ___ case of the noun.",
+              "question_translation": null,
+              "correct_answer": "subject",
+              "options": [
+                "subject"
+              ],
+              "hint": "The suffix -ku on 'wiilku' indicates a specific grammatical function.",
+              "explanation": "Wiilku = the boy (SUBJECT case). The suffix -ku (masculine subject case definite article) marks the noun as the subject of the sentence. Wiil (boy) + ka (definite article) → wiilka (the boy, object case), but in subject position it becomes wiilku. Compare: Wiilka waxaan arkay = I saw the boy (object case).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each case to its Somali suffix marker.",
+              "question_translation": null,
+              "correct_answer": "Subject (masc def):-ku|Subject (fem def):-tu|Object (citation form):-ka/-ta|Genitive (masc):-a|Vocative:-o/-ow",
+              "options": [
+                "Subject (masc def):-ku|Subject (fem def):-tu|Object (citation form):-ka/-ta|Genitive (masc):-a|Vocative:-o/-ow"
+              ],
+              "hint": "These suffixes replace or modify the basic definite article in different grammatical contexts.",
+              "explanation": "Subject case definite: masculine -ku (wiilku 'the boy [subject]'), feminine -tu (naagtu 'the woman [subject]'). Object case: -ka/-ta (citation form). Genitive: used for possession, often -a. Vocative: -o/-ow for addressing (Wiilo! = Boy! / Hey boy!).",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In 'guriga Axmed' (Ahmed's house), what case is 'Axmed' in?",
+              "question_translation": null,
+              "correct_answer": "Genitive (possessive) case",
+              "options": [
+                "Subject case",
+                "Object case",
+                "Genitive (possessive) case",
+                "Vocative case"
+              ],
+              "hint": "This construction shows possession — the house belongs to Ahmed.",
+              "explanation": "Axmed is in the genitive case, showing possession. In Somali, possession is expressed by putting the possessor after the possessed noun: guriga Axmed = the-house-of Ahmed. The possessor takes no special marking in modern Somali, but the possessed noun may have a genitive case marker.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 5,
+              "type": "sentence_constructor",
+              "question": "Arrange to form 'The boy read the book' with correct case marking: 'wiilku | buugga | wuu | akhriyay'.",
+              "question_translation": null,
+              "correct_answer": "Wiilku wuu akhriyay buugga",
+              "options": [
+                "Wiilku",
+                "wuu",
+                "akhriyay",
+                "buugga"
+              ],
+              "hint": "The subject takes the subject case suffix, and the verb comes at the end (SOV order).",
+              "explanation": "Wiilku wuu akhriyay buugga = The boy read the book. Wiilku = the boy (subject case, -ku suffix). Buugga = the book (object case). Wuu = he (focus/copula). Akhriyay = read (past tense). SOV order: Subject (wiilku) - Object (buugga) - Verb (akhriyay).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In 'Naagtay!' (You woman! / Hey woman!), the suffix -y indicates which case?",
+              "question_translation": null,
+              "correct_answer": "Vocative",
+              "options": [
+                "Vocative",
+                "Subject",
+                "Genitive",
+                "Object"
+              ],
+              "hint": "This suffix is used when directly addressing or calling someone.",
+              "explanation": "Naagtay! = Hey woman! / You woman! The suffix -y (or -ay) is a vocative marker used for addressing someone directly. The vocative case in Somali often uses -o for masculine (Wiilo! = Hey boy!) and -ay for feminine nouns. This is an older Cushitic feature preserved in the vocative.",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "order_index": 3,
+      "title": "Sentence Core",
+      "description": "Build sentences with correct SOV word order, personal pronouns, copula constructions, and negation patterns.",
+      "color": "#f59e0b",
+      "icon": "message-circle",
+      "lessons": [
+        {
+          "id": 8,
+          "order_index": 1,
+          "title": "SOV Word Order",
+          "description": "Understand Somali's Subject-Object-Verb word order and how focus markers allow flexible arrangement while keeping the verb at the end.",
+          "grammar_topic": "Syntax",
+          "cultural_note": "Somali's flexible word order reflects the language's emphasis on information structure — what is most important in the message comes first, followed by supporting details. This aligns with oral storytelling traditions.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What is the basic word order in Somali sentences?",
+              "question_translation": null,
+              "correct_answer": "Subject-Object-Verb (SOV)",
+              "options": [
+                "Subject-Verb-Object (SVO)",
+                "Verb-Subject-Object (VSO)",
+                "Subject-Object-Verb (SOV)",
+                "Object-Verb-Subject (OVS)"
+              ],
+              "hint": "Somali is one of the few SOV languages in Africa.",
+              "explanation": "Somali has a basic SOV (Subject-Object-Verb) word order. For example: 'Axmed baa buugga akhriyay' = Ahmed (S) the book (O) read (V). However, Somali word order is quite flexible due to the focus marker system — the focused element tends to come first, and the verb remains at or near the end.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "sentence_constructor",
+              "question": "Arrange the words to form a correct Somali sentence: 'The boy ate the food' using 'wiilku | cunto | wuu | cunay'.",
+              "question_translation": null,
+              "correct_answer": "Wiilku wuu cunay cunto",
+              "options": [
+                "Wiilku",
+                "wuu",
+                "cunay",
+                "cunto"
+              ],
+              "hint": "Remember: Subject comes first, then the copula marker, then the verb, and the object often precedes the verb or follows after.",
+              "explanation": "Wiilku wuu cunay cunto = The boy ate food. Wiilku = the boy (subject case); wuu = he (copula/focus); cunay = ate (past tense); cunto = food. In SOV order: Wiilku (S) cunto (O) wuu cunay (V), though with the copula wuu, the order can vary. A more natural order: Wiilku wuu cunay cunto.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "fill_blank",
+              "question": "In Somali, the verb almost always comes ___ in a basic declarative sentence.",
+              "question_translation": null,
+              "correct_answer": "last",
+              "options": [
+                "last",
+                "first",
+                "second"
+              ],
+              "hint": "Think about the SOV pattern and where the verb (V) is placed.",
+              "explanation": "In Somali, the verb typically comes LAST in a basic declarative sentence, following the SOV (Subject-Object-Verb) pattern. Example: 'Anu shaah baan cabbay' = I tea drank. The verb cabbay (drank) is at the end. This is a characteristic feature of Cushitic languages.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In the sentence 'Axmed baa buugga keenay' (Ahmed brought the book), which element is focused?",
+              "question_translation": null,
+              "correct_answer": "Axmed (the subject)",
+              "options": [
+                "Buugga (the book)",
+                "Keenay (brought)",
+                "Axmed (the subject)",
+                "No element is focused"
+              ],
+              "hint": "The focus marker 'baa' placed after a noun indicates that noun is the focused element.",
+              "explanation": "Axmed is the focused element because the focus marker 'baa' follows it directly. 'Axmed baa buugga keenay' = It was Ahmed who brought the book. The baa marker emphasizes what PRECEDES it. This is one of the two main focus markers in Somali (baa and ayaa).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "Identify the word order pattern: 'Naagtu shaah bay cabbayso' (The woman drinks tea). What is the S, O, V order?",
+              "question_translation": null,
+              "correct_answer": "Naagtu (S) shaah (O) bay cabbayso (V)",
+              "options": [
+                "Naagtu (S) shaah (O) bay cabbayso (V)",
+                "Naagtu (S) bay (O) shaah (V)",
+                "Shaah (S) naagtu (O) bay cabbayso (V)",
+                "Bay (S) naagtu (O) shaah (V)"
+              ],
+              "hint": "Naagtu = the woman, shaah = tea, bay cabbayso = she drinks. The verb complex comes at the end.",
+              "explanation": "Naagtu (S) shaah (O) bay cabbayso (V). Naagtu = the woman (subject case with -tu); shaah = tea (object); bay = she (verbal pronoun clitic); cabbayso = drinks (present habitual). This follows the SOV pattern with the verbal complex (bay cabbayso) at the end.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "fill_blank",
+              "question": "Because Somali uses SOV order and focus markers, the ___ element of the sentence can be moved to the beginning for emphasis while the verb stays at the end.",
+              "question_translation": null,
+              "correct_answer": "focused",
+              "options": [
+                "focused"
+              ],
+              "hint": "Focus markers (baa/ayaa) allow flexible word order while maintaining clarity.",
+              "explanation": "In Somali, any element can be fronted (moved to the beginning) for emphasis/focus, while the verb remains at the end. This makes Somali word order seem flexible, but the underlying structure is always SOV. The focus markers baa and ayaa are crucial for tracking what each element is doing in the sentence.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "order_index": 2,
+          "title": "Personal Pronouns",
+          "description": "Learn Somali's personal pronoun system, including the inclusive/exclusive 'we' distinction and waa-pronoun combinations.",
+          "grammar_topic": "Pronouns",
+          "cultural_note": "The inclusive/exclusive distinction in 'we' reflects the importance of group identity in Somali culture. Knowing whether someone includes you in their 'we' is crucial for understanding social dynamics.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "matching",
+              "question": "Match each Somali subject pronoun to its English equivalent.",
+              "question_translation": null,
+              "correct_answer": "aan:I|aad:you (sg)|uu:he|ay:she|aynu:we (inclusive)|aannu:we (exclusive)|aydin:you (pl)|ay:they",
+              "options": [
+                "aan:I|aad:you (sg)|uu:he|ay:she|aynu:we (inclusive)|aannu:we (exclusive)|aydin:you (pl)|ay:they"
+              ],
+              "hint": "These are the verbal subject pronouns used as clitics with the copula and in verbal sentences.",
+              "explanation": "Aan = I; Aad = you (singular); Uu = he; Ay = she; Aynu = we (inclusive, including the listener); Aannu = we (exclusive, excluding the listener); Aydin = you (plural); Ay = they. Note: 'ay' is used for both 'she' and 'they' — context disambiguates. These are used as clitics with the focus/copula markers.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 2,
+              "type": "multiple_choice",
+              "question": "What is the difference between 'aynu' and 'aannu'?",
+              "question_translation": null,
+              "correct_answer": "Aynu includes the listener (inclusive); aannu excludes the listener (exclusive)",
+              "options": [
+                "Aynu is singular; aannu is plural",
+                "Aynu includes the listener (inclusive); aannu excludes the listener (exclusive)",
+                "There is no difference",
+                "Aynu is formal; aannu is informal"
+              ],
+              "hint": "Somali makes a distinction that English 'we' does not.",
+              "explanation": "Aynu = we (inclusive) — includes the person being spoken to. Aannu = we (exclusive) — excludes the person being spoken to. This is an important distinction: 'Aynu tagnaa' = We (you and I) are going; 'Aannu tagnaa' = We (I and others, not you) are going. This distinction is common in Cushitic languages.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "fill_blank",
+              "question": "The independent pronoun for 'I' in Somali is '___'.",
+              "question_translation": null,
+              "correct_answer": "aniga",
+              "options": [
+                "aniga"
+              ],
+              "hint": "This is the emphatic/independent form, different from the verbal clitic 'aan'.",
+              "explanation": "Aniga = I/me (independent/emphatic pronoun). This form is used for emphasis or as the object of a preposition. The verbal subject clitic is 'aan' (used with verbs: waan tagay = I went). Other independent pronouns: adiga (you sg), isaga (he), iyada (she), innaga (we), idinka (you pl), iyaga (they).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "Which pronoun would you use to say 'She wrote a letter' in Somali?",
+              "question_translation": null,
+              "correct_answer": "Ay + focus marker → way",
+              "options": [
+                "Uu + focus → wuu",
+                "Ay + focus → way",
+                "Aan + focus → waan",
+                "Aad + focus → waad"
+              ],
+              "hint": "The feminine singular pronoun combines with the focus/copula marker to form way/waxay.",
+              "explanation": "Ay (she) + focus marker → way or waxay. 'Way qortay warqad' = She wrote a letter. The combination of pronoun + focus marker creates a portmanteau form. Uu → wuu/wuxuu (he); Aan → waan/waxaan (I); Aad → waad/waxaad (you sg); Aynu → waynu/waxaynu (we incl); Aannu → waannu/waxaannu (we excl); Aydin → waydin/waxaydin (you pl); Ay → way/waxay (she/they).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "matching",
+              "question": "Match each pronoun to its waa- combination (declarative statement form).",
+              "question_translation": null,
+              "correct_answer": "aan:waan|aad:waad|uu:wuu|ay:way|aynu:waynu|aannu:waannu|aydin:waydin|ay:way",
+              "options": [
+                "aan:waan|aad:waad|uu:wuu|ay:way|aynu:waynu|aannu:waannu|aydin:waydin|ay:way"
+              ],
+              "hint": "When combining with waa (the declarative copula), the pronoun clitics form portmanteau words.",
+              "explanation": "The combination of waa (declarative) + pronoun produces: waan (I), waad (you sg), wuu (he), way (she/they), waynu (we incl), waannu (we excl), waydin (you pl). These are used in declarative sentences: 'Waan fiicanahay' = I am fine; 'Wuu yimid' = He came.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "fill_blank",
+              "question": "In 'Waad fiican tahay' (You are fine), 'waad' is a combination of ___ + ___.",
+              "question_translation": null,
+              "correct_answer": "waa,aad",
+              "options": [
+                "waa,aad"
+              ],
+              "hint": "Waad breaks down into the declarative marker plus the second-person singular pronoun.",
+              "explanation": "Waad = waa (declarative marker) + aad (you singular). The declarative copula waa combines with subject pronouns to form portmanteau words. Similarly: waan = waa + aan, wuu = waa + uu, way = waa + ay. This fusion is a characteristic feature of Somali grammar.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "order_index": 3,
+          "title": "Copula Constructions",
+          "description": "Master the declarative copula waa, its combinations with pronouns, and the equational sentence pattern with yahay.",
+          "grammar_topic": "Copula",
+          "cultural_note": "The copula system is central to Somali communication. Using the correct waa-pronoun combination shows social awareness — choosing inclusive vs. exclusive 'we' reflects group membership.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What is the function of 'waa' in Somali?",
+              "question_translation": null,
+              "correct_answer": "It is a declarative copula that makes affirmative statements",
+              "options": [
+                "It means 'and'",
+                "It is a question marker",
+                "It is a declarative copula that makes affirmative statements",
+                "It means 'but'"
+              ],
+              "hint": "Waa is one of the most important function words in Somali.",
+              "explanation": "Waa is the declarative copula in Somali — it introduces affirmative statements and equational sentences. When combined with pronouns, it forms: waan (I am/do), waad (you are/do), wuu (he is/does), way (she is/does), etc. It is NOT the same as waa in Arabic — it is a native Somali grammatical particle.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'___ fiicanahay' means 'I am fine' in Somali.",
+              "question_translation": null,
+              "correct_answer": "Waan",
+              "options": [
+                "Waan"
+              ],
+              "hint": "This is the combination of waa + aan (I).",
+              "explanation": "Waan fiicanahay = I am fine. Waan = waa (declarative) + aan (I). Fiicanahay = fine/I am fine (fiican = fine + -ahay = I am). The waa + pronoun combination is essential for all declarative sentences in Somali.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each copula+pronoun combination to its English meaning.",
+              "question_translation": null,
+              "correct_answer": "waan:I (do/am)|waad:you sg (do/are)|wuu:he (does/is)|way:she/they (does/is)|waynu:we incl (do/are)|waannu:we excl (do/are)|waydin:you pl (do/are)",
+              "options": [
+                "waan:I (do/am)|waad:you sg (do/are)|wuu:he (does/is)|way:she/they (does/is)|waynu:we incl (do/are)|waannu:we excl (do/are)|waydin:you pl (do/are)"
+              ],
+              "hint": "These combinations are the backbone of Somali declarative sentences.",
+              "explanation": "Waan = I; Waad = you (sg); Wuu = he; Way = she/they; Waynu = we (incl); Waannu = we (excl); Waydin = you (pl). These combine the declarative marker waa with the subject pronoun. They are used before verbs: 'Wuu yimid' = He came; 'Waan shaqeeyaa' = I work.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In the sentence 'Axmed wuu arday yahay' (Ahmed is a student), what is the function of 'yahay'?",
+              "question_translation": null,
+              "correct_answer": "It is the third-person copula ('is') used in equational sentences",
+              "options": [
+                "It is the verb 'to see'",
+                "It is a question marker",
+                "It is the third-person copula ('is') used in equational sentences",
+                "It means 'was' (past tense)"
+              ],
+              "hint": "Yahay appears in sentences that equate two nouns or a noun and an adjective.",
+              "explanation": "Yahay is the 3rd person singular present copula ('is') used in equational sentences where a noun/adjective is predicated of a subject. Pattern: Subject + waa/wuu/way + Noun/Adjective + yahay. Example: 'Axmed wuu arday yahay' = Ahmed he student is. This is the standard pattern for 'X is Y' sentences.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The negative declarative copula is '___', used to make negative statements. Example: '___ fiicanahay' = 'I am not fine'.",
+              "question_translation": null,
+              "correct_answer": "ma,ma",
+              "options": [
+                "ma,ma"
+              ],
+              "hint": "This is different from the affirmative 'waa' and is also used for questions.",
+              "explanation": "Ma is the negative/interrogative copula. 'Ma fiicanahay' = I am not fine / Am I fine? (context determines meaning). Ma combines with pronouns: ma+an → maan (I am not / do I?); ma+ad → maad (you are not / do you?); ma+u → miyuu (is he not / is he?); ma+ay → miyay (is she not / is she?). The same particle serves both negation and questions.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Arrange to form 'She is a teacher': 'baro | way | yahay'.",
+              "question_translation": null,
+              "correct_answer": "Way baro yahay",
+              "options": [
+                "Way",
+                "baro",
+                "yahay"
+              ],
+              "hint": "Baro = teacher (feminine form). Use the 3rd person feminine copula combination.",
+              "explanation": "Way baro yahay = She is a teacher / She teacher is. Way = waa + ay (she); baro = teacher; yahay = is (3rd person copula). The structure is: Pronoun+copula + Noun + yahay. For a male teacher (macallin), it would be: Wuu macallin yahay = He is a teacher.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "order_index": 4,
+          "title": "Negation",
+          "description": "Learn how to form negative statements and yes/no questions using the ma particle and negative verb forms.",
+          "grammar_topic": "Negation",
+          "cultural_note": "In Somali culture, direct refusal is often softened. Instead of a blunt 'no,' speakers may use indirect negation or conditional forms to be polite. Understanding the negation system helps navigate these social nuances.",
+          "estimated_minutes": 12,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How are yes/no questions formed in Somali?",
+              "question_translation": null,
+              "correct_answer": "Using the particle 'ma' at the beginning of the sentence",
+              "options": [
+                "By raising the pitch at the end",
+                "Using the particle 'ma' at the beginning of the sentence",
+                "By adding 'ee' at the end",
+                "By inverting subject and verb"
+              ],
+              "hint": "The same particle 'ma' is used for both questions and negation.",
+              "explanation": "Yes/no questions are formed with the particle 'ma' at the beginning: 'Ma tagaysaa?' = Are you going? The 'ma' particle is also used for negation: 'Ma tagayo' = I am not going. Context and intonation distinguish questions from negation. The 'see-saw' intonation pattern helps mark questions.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'___ tagaysaa?' means 'Are you going?' in Somali.",
+              "question_translation": null,
+              "correct_answer": "Ma",
+              "options": [
+                "Ma"
+              ],
+              "hint": "This is the interrogative particle placed at the beginning.",
+              "explanation": "Ma tagaysaa? = Are you going? Ma is the interrogative particle. Tagaysaa = you go/are going (present habitual, 2nd person). The question is marked solely by the initial ma particle. Unlike English, Somali does not change word order for questions.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each negation pattern to its function.",
+              "question_translation": null,
+              "correct_answer": "ma...ee:simple negation|maan...ee:I am not/do not|maad...ee:you are not/do not|miyuu...ee:he is not/does not|miyay...ee:she is not/does not",
+              "options": [
+                "ma...ee:simple negation|maan...ee:I am not/do not|maad...ee:you are not/do not|miyuu...ee:he is not/does not|miyay...ee:she is not/does not"
+              ],
+              "hint": "The negation pattern uses ma + pronoun + verb + ee (negative marker).",
+              "explanation": "Somali negation uses ma + pronoun combination + verb + ee: 'Maan tagay ee' = I did not go; 'Maad cunto ee' = You did not eat; 'Miyuu yimid ee' = He did not come. Note: In modern colloquial Somali, the 'ee' may be dropped or may appear as a suffix on the verb. The pattern is ma + verbal clitic + verb + negative ending.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In 'Ma cuno ee' (He did not eat), what is the negative marker?",
+              "question_translation": null,
+              "correct_answer": "The verb ending changes to show negation, often with 'ee' or a changed verb form",
+              "options": [
+                "Only 'ma' at the beginning",
+                "The word 'ee' or a changed verb suffix",
+                "A special negative verb",
+                "Word order reversal"
+              ],
+              "hint": "Negation in Somali involves both the initial ma particle and changes to the verb form.",
+              "explanation": "In Somali negation, the initial particle 'ma' marks the negative scope, and the verb itself changes form. In past tense, the positive 'cunay' (he ate) becomes 'cunin' (he did not eat) or in some constructions 'ma...ee'. The verb ending changes: -ay (positive past) vs. -in/-ee (negative). The system is complex and varies by tense and conjugation.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The positive sentence 'Waan shaqeeyaa' (I work) becomes negative as '___ shaqeeyo'.",
+              "question_translation": null,
+              "correct_answer": "Maan",
+              "options": [
+                "Maan"
+              ],
+              "hint": "Replace waa with ma to negate, and adjust the verb form.",
+              "explanation": "Maan shaqeeyo = I do not work. Waan (I am/do) changes to maan (I am not/do not), and the verb form changes from shaqeeyaa (positive present) to shaqeeyo (negative/jussive form). The -aa ending (positive) changes to -o (negative/subjunctive). This pattern is consistent across conjugations.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Form the negative of 'He came' using: 'miyuu | yimid | ee'.",
+              "question_translation": null,
+              "correct_answer": "Miyuu yimid ee",
+              "options": [
+                "Miyuu",
+                "yimid",
+                "ee"
+              ],
+              "hint": "Use the 3rd person masculine negative pattern.",
+              "explanation": "Miyuu yimid ee = He did not come. Miyuu = ma (negative) + uu (he); yimid = came; ee = negative marker. In some modern dialects, this may be simplified to 'Ma yimid' or the verb may change to 'ma imanin'. The exact form varies by region and tense.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "order_index": 4,
+      "title": "Focus & Questions",
+      "description": "Master the focus marking system (baa/ayaa) and all question formation patterns including wh-questions, yes/no questions, and interrogative pronouns.",
+      "color": "#8b5cf6",
+      "icon": "search",
+      "lessons": [
+        {
+          "id": 12,
+          "order_index": 1,
+          "title": "Focus Markers (baa)",
+          "description": "Master the focus marker baa, which emphasizes what comes before it, and learn how it replaces the declarative marker in sentences.",
+          "grammar_topic": "Focus System",
+          "cultural_note": "Focus markers are used extensively in Somali conversation and poetry. Emphasizing the correct element shows rhetorical skill. Somali oral poetry relies heavily on focus manipulation for dramatic effect.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What does the focus marker 'baa' do in Somali?",
+              "question_translation": null,
+              "correct_answer": "It emphasizes the element that COMES BEFORE it",
+              "options": [
+                "It emphasizes the element that COMES BEFORE it",
+                "It emphasizes the element that COMES AFTER it",
+                "It turns a statement into a question",
+                "It marks the past tense"
+              ],
+              "hint": "Baa is one of two main focus markers in Somali, and it works differently from ayaa.",
+              "explanation": "The focus marker 'baa' emphasizes what PRECEDES it. Example: 'Axmed baa yimid' = It was AHMED who came. The noun 'Axmed' before baa receives the emphasis. This is in contrast to 'ayaa', which emphasizes what follows it. Baa is the most common focus marker in colloquial Somali.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "In 'Buugga baa akhriyay' (It was the book that he read), the focus marker ___ emphasizes 'buugga' (the book).",
+              "question_translation": null,
+              "correct_answer": "baa",
+              "options": [
+                "baa"
+              ],
+              "hint": "Remember: baa emphasizes what comes BEFORE it.",
+              "explanation": "Buugga baa akhriyay = It was THE BOOK that he read. Baa emphasizes buugga, which comes before it. The structure is: [Focused element] + baa + [rest of sentence]. If we used ayaa instead: Buugga ayuu akhriyay would also emphasize the book but with slightly different nuance.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "What happens to the sentence 'Wuxuu cunay cunto' (He ate food) when we focus the subject with baa?",
+              "question_translation": null,
+              "correct_answer": "Ninku baa cunay cunto (It was the man who ate food)",
+              "options": [
+                "Cunto baa ninku cunay",
+                "Ninku baa cunay cunto",
+                "Wuxuu cunay ninku baa cunto",
+                "Ninku cunto baa cunay"
+              ],
+              "hint": "The focused subject comes first, followed by baa, then the rest.",
+              "explanation": "Ninku baa cunay cunto = It was THE MAN who ate food. The focused element (ninku 'the man') comes first, followed by baa, then the verb at the end. The waa/wuxuu marker is dropped when baa is used. This is a characteristic feature: focus markers replace the declarative marker.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "sentence_constructor",
+              "question": "Arrange with baa focus: 'It was AHMED who bought the tea' using 'Axmed | baa | iibiyay | shaaha'.",
+              "question_translation": null,
+              "correct_answer": "Axmed baa iibiyay shaaha",
+              "options": [
+                "Axmed",
+                "baa",
+                "iibiyay",
+                "shaaha"
+              ],
+              "hint": "Put the focused name first, then baa, then the verb, then the object.",
+              "explanation": "Axmed baa iibiyay shaaha = It was AHMED who bought the tea. Axmed (focused subject) + baa (focus marker) + iibiyay (bought) + shaaha (the tea). The focused element comes first, the verb stays at the end, and baa sits between the focused element and the rest of the sentence.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "In 'Subax baa wanaagsan' (It is MORNING that is good / Morning is the good one), what type of focusing is occurring?",
+              "question_translation": null,
+              "correct_answer": "Contrastive focus — selecting one option from alternatives",
+              "options": [
+                "Contrastive focus — selecting one option from alternatives",
+                "Emphatic focus — adding emotional emphasis",
+                "Topic focus — introducing a new topic",
+                "No focus — declarative statement"
+              ],
+              "hint": "The sentence implies a contrast: morning (as opposed to other times) is good.",
+              "explanation": "Subax baa wanaagsan uses contrastive focus — it selects 'subax' (morning) as the good time, possibly in contrast to other times. Baa frequently expresses contrastive focus, singling out one element from a set of alternatives. This is its most common pragmatic function in discourse.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "fill_blank",
+              "question": "When using 'baa' for focus, the declarative marker 'waa/wuxuu' is ___ and replaced by the focus marker.",
+              "question_translation": null,
+              "correct_answer": "dropped",
+              "options": [
+                "dropped"
+              ],
+              "hint": "Focus markers and the declarative marker cannot co-occur.",
+              "explanation": "When a focus marker (baa or ayaa) is used, the declarative marker (waa, wuxuu, etc.) is DROPPED. They are mutually exclusive. Example: 'Wuxuu cunay' (He ate it) → 'Axmed baa cunay' (AHMED ate it — wuxuu is dropped). The focus marker itself carries the declarative force of the sentence.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "order_index": 2,
+          "title": "Focus Markers (ayaa)",
+          "description": "Master the focus marker ayaa, which emphasizes what comes after it, and contrast it with baa.",
+          "grammar_topic": "Focus System",
+          "cultural_note": "The ability to use baa and ayaa correctly is a mark of fluency. Somali speakers naturally choose between them based on what information they want to highlight, making conversations dynamic and expressive.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How does 'ayaa' differ from 'baa' in Somali focus marking?",
+              "question_translation": null,
+              "correct_answer": "Ayaa emphasizes what comes AFTER it; baa emphasizes what comes BEFORE it",
+              "options": [
+                "Ayaa emphasizes what comes AFTER it; baa emphasizes what comes BEFORE it",
+                "They are identical in meaning",
+                "Ayaa is only for questions; baa is only for statements",
+                "Ayaa is past tense; baa is present tense"
+              ],
+              "hint": "This is the key distinction between the two focus markers.",
+              "explanation": "Ayaa emphasizes what FOLLOWS it, while baa emphasizes what PRECEDES it. Example: 'Axmed ayaa yimid' = Ahmed CAME (emphasis on the action of coming). 'Axmed baa yimid' = AHMED came (emphasis on Ahmed). This complementary distribution allows speakers to highlight different sentence elements.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "In 'Axmed ayaa buugga keenay' (Ahmed BROUGHT the book), the focus marker 'ayaa' emphasizes the ___.",
+              "question_translation": null,
+              "correct_answer": "verb/action",
+              "options": [
+                "verb/action"
+              ],
+              "hint": "Remember: ayaa emphasizes what comes AFTER it.",
+              "explanation": "Axmed ayaa buugga keenay = Ahmed BROUGHT the book. Ayaa emphasizes the verb/action (keenay 'brought'). Compare: 'Axmed baa buugga keenay' = AHMED brought the book (emphasis on the subject). The choice between baa and ayaa depends on what you want to highlight.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each sentence to its emphasized element and the correct English translation.",
+              "question_translation": null,
+              "correct_answer": "Axmed baa buugga keenay:Ahmed (subject focus)|Axmed ayaa buugga keenay:The bringing (action focus)|Buugga baa Axmed keenay:The book (object focus)",
+              "options": [
+                "Axmed baa buugga keenay:Ahmed (subject focus)|Axmed ayaa buugga keenay:The bringing (action focus)|Buugga baa Axmed keenay:The book (object focus)"
+              ],
+              "hint": "Pay attention to which focus marker is used and what position the emphasized element is in.",
+              "explanation": "Axmed baa buugga keenay = AHMED brought the book (baa → emphasis on what precedes = Axmed); Axmed ayaa buugga keenay = Ahmed BROUGHT the book (ayaa → emphasis on what follows = the action); Buugga baa Axmed keenay = Ahmed brought THE BOOK (baa → emphasis on what precedes = buugga). The focus system allows nuanced expression of emphasis.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "sentence_constructor",
+              "question": "Form 'It was THE TEA that she drank' using the correct focus marker: 'shaah | ay | ayaa/baa | cabbay'.",
+              "question_translation": null,
+              "correct_answer": "Shaah ayay cabbay",
+              "options": [
+                "Shaah",
+                "ayay",
+                "cabbay"
+              ],
+              "hint": "The object 'shaah' should be emphasized using baa (before the marker), but with ay (she) we use ayay.",
+              "explanation": "Shaah ayay cabbay = THE TEA she drank / It was tea that she drank. Actually, more precisely: 'Shaah ayay cabbay' uses the verbal clitic 'ayay' (ay + ay). With feminine 'ay', the form is 'ayay'. To emphasize the object shaah with baa, a more precise form would be 'Shaah bay cabbay' = It was tea that she drank. Bay = baa + ay (she).",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 5,
+              "type": "multiple_choice",
+              "question": "When 'ayaa' is used, the subject pronoun must be expressed as a ___ form that appears after ayaa.",
+              "question_translation": null,
+              "correct_answer": "Clitic pronoun attached to ayaa (ayuu, ayay, etc.)",
+              "options": [
+                "Full independent pronoun before ayaa",
+                "Clitic pronoun attached to ayaa (ayuu, ayay, etc.)",
+                "No pronoun is needed",
+                "Verb prefix"
+              ],
+              "hint": "Ayaa requires a subject clitic to follow it.",
+              "explanation": "When ayaa is used, a subject clitic pronoun follows it: ayuu (he), ayay (she/they), ayaan (I), ayad (you), etc. Example: 'Axmed ayuu yimid' = Ahmed HE came. The clitic pronoun is required for grammatical completeness when ayaa is used.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In 'Waxaan akhriyay buug' (I read a book), the prefix 'wax-' in 'waxaan' serves what function?",
+              "question_translation": null,
+              "correct_answer": "It is a focus marker combined with the 1st person pronoun",
+              "options": [
+                "It means 'what/thing'",
+                "It is a focus marker combined with the 1st person pronoun",
+                "It marks the past tense",
+                "It indicates negation"
+              ],
+              "hint": "Waxaan is actually waa + aan with an epenthetic -x- for phonological reasons.",
+              "explanation": "Waxaan = waa + x + aan (I). The -x- is epenthetic (inserted for phonological reasons). Similarly: waxaad (you), wuxuu (he), waxay (she/they). These are the declarative forms used when the object is focused or when there's no specific focused element. 'Waxaan akhriyay buug' = I read a book (neutral statement).",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "order_index": 3,
+          "title": "Question Words",
+          "description": "Learn the essential wh-question words (maxay, kuma, sidee, goorma, xagee, kee) and how to form wh-questions in Somali.",
+          "grammar_topic": "Questions",
+          "cultural_note": "Asking questions is an important social skill in Somali culture. It is polite to ask about someone's family and well-being before asking factual questions. Direct questions about personal matters may be considered intrusive.",
+          "estimated_minutes": 8,
+          "difficulty": "easy",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "matching",
+              "question": "Match each Somali question word to its English meaning.",
+              "question_translation": null,
+              "correct_answer": "maxay:what|kuma:who|sidee:how|goorma:when|xagee:where|kee:which",
+              "options": [
+                "maxay:what|kuma:who|sidee:how|goorma:when|xagee:where|kee:which"
+              ],
+              "hint": "These are the essential question words for forming wh-questions in Somali.",
+              "explanation": "Maxay = what; Kuma = who; Sidee = how; Goorma = when; Xagee = where; Kee = which. These question words are placed at the beginning of the sentence. Unlike English, Somali does not invert subject-verb order for questions — the question word simply replaces the focused element.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'___ tidhi?' means 'What did you say?' in Somali.",
+              "question_translation": null,
+              "correct_answer": "Maxay",
+              "options": [
+                "Maxay"
+              ],
+              "hint": "This is the most common question word for 'what'.",
+              "explanation": "Maxay tidhi? = What did you say? Maxay = what; tidhi = you said. In Somali wh-questions, the question word comes first, followed by the verb. Note: maxay also functions as the relative marker 'which/that' in some contexts.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "How would you ask 'Where are you going?' in Somali?",
+              "question_translation": null,
+              "correct_answer": "Xagee tagaysaa?",
+              "options": [
+                "Maxay tagaysaa?",
+                "Xagee tagaysaa?",
+                "Goorma tagaysaa?",
+                "Sidee tagaysaa?"
+              ],
+              "hint": "Choose the correct question word for 'where'.",
+              "explanation": "Xagee tagaysaa? = Where are you going? Xagee = where; tagaysaa = you are going. Maxay = what; Goorma = when; Sidee = how. The question word xagee is used for asking about location and direction.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "sentence_constructor",
+              "question": "Form 'How are you?' using: 'sidee | tahay | ku'.",
+              "question_translation": null,
+              "correct_answer": "Sidee ku tahay?",
+              "options": [
+                "Sidee",
+                "ku",
+                "tahay?"
+              ],
+              "hint": "Sidee = how, ku = with you, tahay = you are.",
+              "explanation": "Sidee ku tahay? = How are you (lit. how with-you are-you)? Sidee = how; ku = with (preposition clitic) + you; tahay = you are. This is one of the most common greetings, more informal than 'Is ka warran'. The pattern [question word] + [preposition clitic] + [verb] is standard.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 5,
+              "type": "multiple_choice",
+              "question": "In 'Kuma arkay?' (Whom did you see?), where does the question word 'kuma' come from etymologically?",
+              "question_translation": null,
+              "correct_answer": "ku (object marker) + ma (interrogative) = 'as for whom?'",
+              "options": [
+                "From Arabic 'kayfa ma'",
+                "ku (object marker) + ma (interrogative) = 'as for whom?'",
+                "A root word meaning 'person'",
+                "From the verb 'to ask'"
+              ],
+              "hint": "Kuma is actually a grammaticalized combination.",
+              "explanation": "Kuma = ku (object preposition 'for/as for') + ma (interrogative). Originally meaning 'as for whom?' This structure shows how Somali question words evolved from combining prepositions with the interrogative particle ma. Similarly: maxay = ma (what) + xay; xagee = xag (side/direction) + ee.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "fill_blank",
+              "question": "'Goorma ___?' means 'When did he come?' — fill in the verb.",
+              "question_translation": null,
+              "correct_answer": "yimid",
+              "options": [
+                "yimid"
+              ],
+              "hint": "Yimid = he came (past tense of yimid 'to come').",
+              "explanation": "Goorma yimid? = When did he come? Goorma = when; yimid = he came. The past tense form yimid does not change for person in this construction — context (including the question word) determines the subject. For a more explicit form: 'Goorma buu yimid?' = When did HE come?",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "order_index": 4,
+          "title": "Yes/No Questions",
+          "description": "Learn how to form and answer yes/no questions using ma with see-saw intonation, and the responses haa/maya.",
+          "grammar_topic": "Questions",
+          "cultural_note": "Somali culture values indirect communication. A direct 'no' (maya) might be softened with explanations or partial agreements. Understanding when to be direct and when to be indirect is an important cultural skill.",
+          "estimated_minutes": 8,
+          "difficulty": "easy",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How are yes/no questions distinguished from negative statements when both use 'ma'?",
+              "question_translation": null,
+              "correct_answer": "By intonation: questions have a see-saw pitch pattern, statements have falling intonation",
+              "options": [
+                "By word order changes",
+                "By intonation: questions have a see-saw pitch pattern, statements have falling intonation",
+                "By adding 'miyaa' at the end",
+                "By using different particles"
+              ],
+              "hint": "Intonation is crucial in Somali for distinguishing questions from negations.",
+              "explanation": "Yes/no questions use 'ma' with a distinctive see-saw intonation: the pitch rises on the focus and then falls. Negative statements use 'ma' with falling intonation. Example: 'Ma tagaysaa?' (question, see-saw intonation) = Are you going? vs. 'Ma tagayo' (statement, falling) = I am not going. Context also helps disambiguate.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "To ask 'Did you eat?' in Somali, you say: '___ cuntay?'",
+              "question_translation": null,
+              "correct_answer": "Ma",
+              "options": [
+                "Ma"
+              ],
+              "hint": "The ma particle initiates the yes/no question.",
+              "explanation": "Ma cuntay? = Did you eat? Ma = question particle; cuntay = you ate/he ate (past tense). The ma particle is placed at the beginning. The see-saw intonation pattern distinguishes this as a question. A natural response would be 'Haa' (Yes) or 'Maya' (No).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "What is the Somali word for 'yes'?",
+              "question_translation": null,
+              "correct_answer": "Haa",
+              "options": [
+                "Haa",
+                "Maya",
+                "Nabad",
+                "Waa"
+              ],
+              "hint": "This is the standard affirmative response.",
+              "explanation": "Haa = yes. Maya = no. Nabad = peace/fine. Waa = declarative marker. When answering a yes/no question, 'Haa' is the standard affirmative. Sometimes Somali speakers repeat the verb for emphasis: 'Haa, waan cunay' = Yes, I ate.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "fill_blank",
+              "question": "The negative response to a yes/no question is '___' (no).",
+              "question_translation": null,
+              "correct_answer": "Maya",
+              "options": [
+                "Maya"
+              ],
+              "hint": "This is the standard negative response.",
+              "explanation": "Maya = no. This is the standard negative response to yes/no questions. Unlike some languages, Somali does not use the negative verb form as a response — 'maya' is the dedicated negative particle. A full negative response: 'Maya, ma cuno' = No, I didn't eat.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "In 'Ma cuntay?' (Did you eat?), what grammatical device primarily marks this as a question rather than a negation?",
+              "question_translation": null,
+              "correct_answer": "See-saw intonation pattern",
+              "options": [
+                "Word order reversal",
+                "See-saw intonation pattern",
+                "A special question suffix",
+                "A change in the verb form"
+              ],
+              "hint": "Without the special intonation, it could be misinterpreted.",
+              "explanation": "The see-saw intonation pattern is the primary device: the pitch rises on the stressed syllable of the predicate and then falls. This rising-falling contour is characteristic of Somali yes/no questions. Written Somali relies on the question mark and context, since ma is identical for both questions and negation.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Form a yes/no question meaning 'Is he a student?' using: 'ma | arday | yahay | uu'.",
+              "question_translation": null,
+              "correct_answer": "Miyuu arday yahay?",
+              "options": [
+                "Miyuu",
+                "arday",
+                "yahay?"
+              ],
+              "hint": "Combine ma + uu to form miyuu, then add the equational pattern.",
+              "explanation": "Miyuu arday yahay? = Is he a student? Miyuu = ma (question) + uu (he); arday = student; yahay = is (copula). In equational questions, the ma particle combines with the pronoun: ma + uu → miyuu. This follows the pattern: [ma + pronoun] + [noun] + [copula].",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "order_index": 5,
+          "title": "Interrogative Pronouns",
+          "description": "Master the ma-pronoun combinations (miyaan, miyaad, miyuu, miyay) used in forming questions about identity and actions.",
+          "grammar_topic": "Questions",
+          "cultural_note": "Questions about someone's clan or family background are common in Somali culture as a way of establishing relationships. The interrogative forms allow speakers to ask about identity politely and indirectly.",
+          "estimated_minutes": 10,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How is 'Am I...?' formed in Somali?",
+              "question_translation": null,
+              "correct_answer": "Miy-aan (ma + aan)",
+              "options": [
+                "Miy-aan (ma + aan)",
+                "Ma-an",
+                "Miy-uu",
+                "Ma+aan → maan"
+              ],
+              "hint": "The interrogative pronoun combines ma with the subject pronoun.",
+              "explanation": "Miyaan = ma (question) + aan (I). Example: 'Miyaan tagayaa?' = Am I going? The combination ma + aan → miyaan (with epenthetic -y- for phonological reasons). This pattern applies to all persons: ma + aad → miyaad; ma + uu → miyuu; ma + ay → miyay.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "matching",
+              "question": "Match each interrogative pronoun combination to its meaning.",
+              "question_translation": null,
+              "correct_answer": "miyaan:am I|miyaad:are you|miyuu:is he|miyay:is she|miyaynu:are we (incl)|miyaannu:are we (excl)|miyaydin:are you (pl)|miyay:are they",
+              "options": [
+                "miyaan:am I|miyaad:are you|miyuu:is he|miyay:is she|miyaynu:are we (incl)|miyaannu:are we (excl)|miyaydin:are you (pl)|miyay:are they"
+              ],
+              "hint": "These are the question forms of the waa-pronoun combinations.",
+              "explanation": "Miyaan = am I; Miyaad = are you (sg); Miyuu = is he; Miyay = is she/are they; Miyaynu = are we (incl); Miyaannu = are we (excl); Miyaydin = are you (pl); Miyay = are they. These are used in equational questions: 'Miyuu macallin yahay?' = Is he a teacher?",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "fill_blank",
+              "question": "'___ arday tahay?' = 'Are you a student?' (feminine).",
+              "question_translation": null,
+              "correct_answer": "Miyad",
+              "options": [
+                "Miyad",
+                "Miyaad"
+              ],
+              "hint": "The feminine form of the 2nd person interrogative combines ma + ad.",
+              "explanation": "Miyad arday tahay? = Are you a student? Miyad = ma (question) + ad (you, fem). The feminine 2nd person singular uses 'ad' rather than 'aad'. In colloquial Somali, 'Miyaad' is also used. The pattern is: [ma + pronoun] + [noun] + [copula].",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "sentence_constructor",
+              "question": "Form 'Is he coming?' using: 'miyuu | imanayaa | uu'.",
+              "question_translation": null,
+              "correct_answer": "Miyuu imanayaa?",
+              "options": [
+                "Miyuu",
+                "imanayaa?"
+              ],
+              "hint": "Combine ma + uu into miyuu, then add the present progressive verb.",
+              "explanation": "Miyuu imanayaa? = Is he coming? Miyuu = ma (question) + uu (he); imanayaa = is coming (present progressive). The present progressive uses the -ayaa suffix. Note: ma + uu contracts to miyuu with epenthetic -y-.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "multiple_choice",
+              "question": "In 'Miyaynaad cunto?' (Aren't you eating? / Don't you eat?), what does the suffix '-naad' indicate?",
+              "question_translation": null,
+              "correct_answer": "It is a negative interrogative combining ma + ay (focus) + aad (you)",
+              "options": [
+                "It is the past tense marker",
+                "It indicates a command",
+                "It is a negative interrogative combining ma + ay (focus) + aad (you)",
+                "It shows continuous aspect"
+              ],
+              "hint": "The -naad ending combines multiple grammatical elements.",
+              "explanation": "Miyaynaad = ma (negative/question) + ay (focus marker) + aad (you). This is a complex interrogative form used for negative questions: 'Miyaynaad cunto?' = Aren't you eating? The combination ma + ay + aad contracts to miyaynaad. This form implies the speaker expects a negative answer or expresses surprise.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In the question 'Miyuu buugga akhriyay?' (Did he read the book?), identify the grammatical function of each element.",
+              "question_translation": null,
+              "correct_answer": "Miyuu:interrogative pronoun|buugga:the book (object)|akhriyay:read (verb)",
+              "options": [
+                "Miyuu:interrogative pronoun|buugga:the book (object)|akhriyay:read (verb)"
+              ],
+              "hint": "This is a verbal question — the pattern differs from equational questions.",
+              "explanation": "Miyuu buugga akhriyay? = Did he read the book? Miyuu = ma + uu (interrogative, 3rd person masc); buugga = the book (object, definite); akhriyay = read (past tense verb, sentence-final position). This follows the pattern: [Interrogative pronoun] + [Object] + [Verb]. The subject is encoded in miyuu.",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "order_index": 5,
+      "title": "Verb & Tense",
+      "description": "Master Somali verb conjugations, the general past tense, present habitual, and future tense constructions.",
+      "color": "#ef4444",
+      "icon": "clock",
+      "lessons": [
+        {
+          "id": 17,
+          "order_index": 1,
+          "title": "Verb Conjugations",
+          "description": "Learn the 3 verb conjugation groups in Somali, understand the imperative as base form, and recognize verb classes by their stem patterns.",
+          "grammar_topic": "Verbs",
+          "cultural_note": "The imperative form in Somali is direct and not considered rude when used among equals. However, with elders or strangers, softer forms using the optative/jussive ('Furo' = May it open / Please open) are preferred.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How many verb conjugation groups are there in Somali?",
+              "question_translation": null,
+              "correct_answer": "3 main conjugation groups",
+              "options": [
+                "2 conjugations",
+                "3 main conjugation groups",
+                "4 conjugations like Arabic",
+                "1 regular conjugation"
+              ],
+              "hint": "Somali verbs fall into three main classes based on their stem-final consonant or vowel.",
+              "explanation": "Somali has 3 main verb conjugation groups: Conjugation 1 (verbs ending in a single consonant, e.g., keen 'bring', akhri 'read', qor 'write'), Conjugation 2 (verbs ending in -i/-y, e.g., cuni 'eat', hubi 'check'), Conjugation 3 (verbs with special patterns or final weak root, e.g., yimi 'come', jir 'be'). The imperative form serves as the citation/base form.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "matching",
+              "question": "Match each verb to its conjugation group and English meaning.",
+              "question_translation": null,
+              "correct_answer": "keen:Conj 1 — bring|akhri:Conj 1 — read|qor:Conj 1 — write|cun:Conj 1 — eat|tag:Conj 1 — go|fur:Conj 1 — open|eeg:Conj 1 — look|sug:Conj 1 — wait",
+              "options": [
+                "keen:Conj 1 — bring|akhri:Conj 1 — read|qor:Conj 1 — write|cun:Conj 1 — eat|tag:Conj 1 — go|fur:Conj 1 — open|eeg:Conj 1 — look|sug:Conj 1 — wait"
+              ],
+              "hint": "Most common verbs belong to Conjugation 1, ending in a single consonant.",
+              "explanation": "Keen (bring), akhri (read), qor (write), cun (eat), tag (go), fur (open), eeg (look/see), sug (wait) — all are Conjugation 1 verbs with imperative as base form. The imperative form is the citation form used in dictionaries. Conjugation 1 is the largest and most regular group.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "fill_blank",
+              "question": "The imperative form of a Somali verb is also its ___ form used for citation and conjugation.",
+              "question_translation": null,
+              "correct_answer": "base",
+              "options": [
+                "base",
+                "root"
+              ],
+              "hint": "The imperative serves multiple functions in Somali verb morphology.",
+              "explanation": "The imperative form serves as the base/citation form in Somali. For example: 'Keen!' = Bring! (imperative). This same form 'keen' is the base for all conjugations: waan keenay (I brought), waan keenaa (I bring). Unlike English, the imperative is not marked by a special ending — it is the bare stem.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "Which of the following is a Conjugation 2 verb (ending in -i/-y)?",
+              "question_translation": null,
+              "correct_answer": "Hubi (check)",
+              "options": [
+                "Keen (bring)",
+                "Tag (go)",
+                "Hubi (check)",
+                "Qor (write)"
+              ],
+              "hint": "Conjugation 2 verbs have a different stem structure that affects how they conjugate.",
+              "explanation": "Hubi (check) is a Conjugation 2 verb. Conjugation 2 verbs end in -i (which becomes -y before vowels): hubi → hubay (he checked). The -i/-y ending causes different conjugation patterns, especially in past tense where the ending is -ay rather than the consonant stem pattern. Other Conj 2 verbs: cabbi (drink heavily), uusi (lead).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "In 'Fur albaabka!' (Open the door!), what form of the verb is 'fur'?",
+              "question_translation": null,
+              "correct_answer": "Imperative (2nd person singular)",
+              "options": [
+                "Past tense",
+                "Imperative (2nd person singular)",
+                "Present habitual",
+                "Infinitive"
+              ],
+              "hint": "This is a command directed at someone.",
+              "explanation": "Fur! = Open! (imperative, 2nd person singular). The imperative in Somali is the bare stem for Conjugation 1 verbs. For plural/addressee: 'Fura!' = Open! (to multiple people or with respect). The imperative form coincides with the verb stem, which is also the citation form.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 6,
+              "type": "fill_blank",
+              "question": "The infinitive form of Somali verbs is marked by the suffix ___ (e.g., keen-i 'to bring').",
+              "question_translation": null,
+              "correct_answer": "-i",
+              "options": [
+                "-i"
+              ],
+              "hint": "This suffix turns the imperative stem into an infinitive/nominal form.",
+              "explanation": "The infinitive suffix is -i (or -in for the verbal noun): keen-i = to bring; akhri-i = to read; qor-i = to write; cun-i = to eat. The -i suffix attaches to the imperative stem. This infinitive is used with auxiliary verbs: 'Waan doonayaa inaan akhrio' = I want to read (literally: I want that-I read).",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "order_index": 2,
+          "title": "General Past Tense",
+          "description": "Master the past tense formation with -ay/-ey suffixes for Conjugation 1 verbs, including epenthesis rules.",
+          "grammar_topic": "Verbs",
+          "cultural_note": "In Somali storytelling, the past tense is used extensively for narrative. Traditional oral histories (gabay, heello) often use past tense markers to create dramatic effect and signal story progression.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What suffix marks the general past tense for most Conjugation 1 verbs?",
+              "question_translation": null,
+              "correct_answer": "-ay/-ey (attached to the stem)",
+              "options": [
+                "-aa/-taa",
+                "-ay/-ey",
+                "-i/-in",
+                "-do/dhayo"
+              ],
+              "hint": "The past tense is marked by a suffix added to the verb stem.",
+              "explanation": "The general past tense is marked by -ay/-ey added to the verb stem. Example: keen (bring) → keenay (brought); akhri (read) → akhriyay (read); qor (write) → qoray (wrote); cun (eat) → cunay (ate). The -ay/-ey variant depends on vowel harmony in the stem.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "The past tense of 'tag' (go) is '___' (went).",
+              "question_translation": null,
+              "correct_answer": "tagay",
+              "options": [
+                "tagay"
+              ],
+              "hint": "Add the past tense suffix -ay to the stem tag.",
+              "explanation": "Tagay = went. Tag (go) + ay → tagay. For Conjugation 1 verbs ending in a single consonant, the past tense is formed by adding -ay directly to the stem. Other examples: keen → keenay, qor → qoray, cun → cunay, fur → furay.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each verb to its correct past tense form.",
+              "question_translation": null,
+              "correct_answer": "keen:keenay|akhri:akhriyay|qor:qoray|cun:cunay|tag:tagay|fur:furay|eeg:eegay|sug:sugay",
+              "options": [
+                "keen:keenay|akhri:akhriyay|qor:qoray|cun:cunay|tag:tagay|fur:furay|eeg:eegay|sug:sugay"
+              ],
+              "hint": "All follow the same pattern: stem + -ay for past tense.",
+              "explanation": "Keen → keenay (brought); Akhri → akhriyay (read) — note the epenthetic -y- between two vowels; Qor → qoray (wrote); Cun → cunay (ate); Tag → tagay (went); Fur → furay (opened); Eeg → eegay (saw/looked); Sug → sugay (waited). All Conjugation 1 verbs follow stem + -ay.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "Why does 'akhri' become 'akhriyay' in the past tense instead of 'akhriay'?",
+              "question_translation": null,
+              "correct_answer": "An epenthetic -y- is inserted between two vowels to break up a hiatus",
+              "options": [
+                "The stem consonant changes",
+                "An epenthetic -y- is inserted between two vowels to break up a hiatus",
+                "It is an irregular verb",
+                "The past suffix becomes -ey"
+              ],
+              "hint": "Two vowels cannot be adjacent in Somali without an intervening consonant.",
+              "explanation": "Akhri + ay → akhriyay. An epenthetic -y- is inserted between the final -i of the stem and the initial -a- of the past suffix to prevent a hiatus (two vowels adjacent). This is a regular phonological rule in Somali: when a morpheme ending in a vowel is followed by one beginning with a vowel, -y- or -w- may be inserted.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The sound change rule for past tense of verbs with stems ending in -d/-dh/-r/-l is that the past suffix -ay assimilates: ___ → iday/iday/dhay/ray/lay.",
+              "question_translation": null,
+              "correct_answer": "t→d/dh",
+              "options": [
+                "t→d/dh"
+              ],
+              "hint": "A voiced final consonant causes the following t-sound to become voiced.",
+              "explanation": "For stems ending in voiced consonants (d, dh, r, l), the past tense shows voicing assimilation. Example: qab (take/hold) → qabtay (NOT *qabday — actually this one keeps t); but samayn (do) → sameeyay. The exact pattern varies. For most Conj 1 verbs, the regular -ay applies regardless.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Form 'He read the book' using the correct past tense: 'wuxuu | buugga | akhriyay | uu'.",
+              "question_translation": null,
+              "correct_answer": "Wuxuu akhriyay buugga",
+              "options": [
+                "Wuxuu",
+                "akhriyay",
+                "buugga"
+              ],
+              "hint": "Use the 3rd person masculine wuxuu + past tense verb + object.",
+              "explanation": "Wuxuu akhriyay buugga = He read the book. Wuxuu = wuxuu (he, declarative); akhriyay = read (past tense of akhri); buugga = the book. In past tense, the subject marker wuxuu precedes the verb, and the object follows before or after the verb.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "order_index": 3,
+          "title": "Present Habitual",
+          "description": "Learn the present habitual tense with -aa/-taa suffixes for expressing regular, habitual actions.",
+          "grammar_topic": "Verbs",
+          "cultural_note": "The present habitual is used to describe daily routines, cultural practices, and personal habits. Somali speakers use it frequently when discussing clan customs, daily life, and recurring events.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What suffix marks the present habitual tense in Somali?",
+              "question_translation": null,
+              "correct_answer": "-aa/-taa (1st/2nd person), -aa/-taa (3rd person with y- insertion)",
+              "options": [
+                "-ay/-ey",
+                "-aa/-taa (1st/2nd person), -aa/-taa (3rd person with y- insertion)",
+                "-i/-in",
+                "-do/dhayo"
+              ],
+              "hint": "The present habitual indicates regular, habitual actions.",
+              "explanation": "The present habitual is marked by -aa for 1st person and -taa for 2nd/3rd person: waan keenaa (I bring), waad keentaa (you bring), wuu keenaa (he brings — 3rd person uses -aa, not -taa). Actually, the pattern is: 1st person: -aa; 2nd person: -taa; 3rd person masc: -aa; 3rd person fem: -taa. The exact distribution varies by conjugation.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'Waan ___' means 'I bring' (habitual present) in Somali.",
+              "question_translation": null,
+              "correct_answer": "keenaa",
+              "options": [
+                "keenaa"
+              ],
+              "hint": "Add -aa to the stem keen for 1st person habitual present.",
+              "explanation": "Waan keenaa = I bring / I am a bringer (habitual). Keen (stem) + aa (1st person habitual) → keenaa. The present habitual describes regular, habitual actions: 'Waan cuntaa shaah' = I drink tea (habitually).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each subject to the correct present habitual form of 'cun' (eat).",
+              "question_translation": null,
+              "correct_answer": "waan cuntaa:I eat|waad cuntaa:you eat|wuu cuntaa:he eats|way cuntaa:she eats",
+              "options": [
+                "waan cuntaa:I eat|waad cuntaa:you eat|wuu cuntaa:he eats|way cuntaa:she eats"
+              ],
+              "hint": "Note that 1st person uses -aa, while 2nd and 3rd persons use -taa/-daa with cun.",
+              "explanation": "Actually, correction: With cun (eat): waan cunaa (I eat) — 1st person uses -aa; waad cuntaa (you eat) — 2nd uses -taa; wuu cunaa (he eats) — 3rd masc uses -aa; way cuntaa (she eats) — 3rd fem uses -taa. The distribution depends on both person and gender.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In 'Naagtu shaah bay cabbayso' (The woman drinks tea), what is the function of '-yso' in 'cabbayso'?",
+              "question_translation": null,
+              "correct_answer": "It marks 3rd person feminine present habitual",
+              "options": [
+                "It marks past tense",
+                "It marks 3rd person feminine present habitual",
+                "It is a subjunctive marker",
+                "It marks plural subject"
+              ],
+              "hint": "The -yso ending is specific to feminine subjects in the present habitual.",
+              "explanation": "Cabbayso = she drinks (present habitual, 3rd person feminine). The suffix -yso marks the 3rd person feminine present habitual for Conjugation 1 verbs. Pattern: stem + ay + so. For cab (drink/drinks): cab + ay + so → cabbayso. Compare: wuu cabbaa (he drinks). The feminine form inserts -y- between the stem and the ending.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "'Waxaan ___ shaah' = 'I drink tea' (present habitual). The verb is 'cab' (drink).",
+              "question_translation": null,
+              "correct_answer": "cabaa",
+              "options": [
+                "cabaa"
+              ],
+              "hint": "1st person singular present habitual of cab.",
+              "explanation": "Waxaan cabaa shaah = I drink tea. Cab (drink) + aa (1st person habitual) → cabaa. The present habitual indicates a regular habit. Waxaan = waa + aan (I, declarative). This construction is used for statements about habitual actions.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "What is the difference between 'Waan cunay' (I ate) and 'Waan cunaa' (I eat)?",
+              "question_translation": null,
+              "correct_answer": "Cunay is past tense; cunaa is present habitual",
+              "options": [
+                "Cunay is past tense; cunaa is present habitual",
+                "There is no difference",
+                "Cunay is formal; cunaa is informal",
+                "Cunay is plural; cunaa is singular"
+              ],
+              "hint": "The suffix distinguishes tense: -ay = past, -aa = present habitual.",
+              "explanation": "Waan cunay = I ate (past tense, -ay suffix); Waan cunaa = I eat (present habitual, -aa suffix). The difference is in the tense suffix: -ay/-ey marks past, -aa/-taa marks present habitual. This is a fundamental tense distinction in Somali. Context determines which is appropriate.",
+              "difficulty": "easy",
+              "points": 10
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "order_index": 4,
+          "title": "Future Tense",
+          "description": "Learn to form the future tense using doon + infinitive/subjunctive construction.",
+          "grammar_topic": "Verbs",
+          "cultural_note": "Somali speakers often use the present habitual for near-future events rather than the doon construction, which sounds more deliberate or formal. 'Waa imanayaa' (I am coming) is more common than 'Waan doonayaa inaan imado' for immediate future.",
+          "estimated_minutes": 12,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How is the future tense formed in Somali?",
+              "question_translation": null,
+              "correct_answer": "Using 'doon' (want/will) + infinitive of the main verb",
+              "options": [
+                "Adding a future suffix to the verb stem",
+                "Using 'doon' (want/will) + infinitive of the main verb",
+                "Using the present habitual with a time marker",
+                "Adding -do to the past tense form"
+              ],
+              "hint": "Somali uses an auxiliary construction for the future.",
+              "explanation": "The future tense is formed with doon (will/want) + infinitive (-i form): 'Waan doonayaa inaan tago' = I will go (literally: I want that I go). The infinitive uses -i: tag-i = to go, keen-i = to bring. Alternatively: 'Waan doonayaa inaan akhrio' = I will read. The doon verb conjugates for person.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'Waan ___ inaan ___' = 'I will go' (lit. 'I want that I go').",
+              "question_translation": null,
+              "correct_answer": "doonayaa,tago",
+              "options": [
+                "doonayaa,tago"
+              ],
+              "hint": "Doonayaa = I want/will; tago = I go (subjunctive).",
+              "explanation": "Waan doonayaa inaan tago = I will go. Doonayaa = I want/will (present habitual of doon); inaan = that I; tago = I go (subjunctive 1st person). The future uses the auxiliary 'doon' in the present habitual + in + subjunctive form of the main verb. This structure is parallel to English 'I want to go' expressing future intention.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "sentence_constructor",
+              "question": "Form 'He will read the book' using: 'wuxuu | doonayaa | inuu | buugga | akhriyo'.",
+              "question_translation": null,
+              "correct_answer": "Wuxuu doonayaa inuu akhriyo buugga",
+              "options": [
+                "Wuxuu",
+                "doonayaa",
+                "inaa",
+                "akhriyo",
+                "buugga"
+              ],
+              "hint": "The future uses doonayaa + inuu + subjunctive verb + object.",
+              "explanation": "Wuxuu doonayaa inuu akhriyo buugga = He will read the book (lit. He wants that he read the book). Wuxuu = he (declarative); doonayaa = will/wants; inuu = that he; akhriyo = he read (subjunctive); buugga = the book. The subjunctive form akhriyo (not akhriyay) is required after inuu.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In the future construction, the main verb appears in which form after 'inuu/inaan/etc.'?",
+              "question_translation": null,
+              "correct_answer": "Subjunctive form (with -o ending for 1st/3rd person)",
+              "options": [
+                "Past tense form",
+                "Imperative form",
+                "Subjunctive form (with -o ending for 1st/3rd person)",
+                "Present habitual form"
+              ],
+              "hint": "The subjunctive mood is required after the complementizer 'in'.",
+              "explanation": "After the complementizer 'in' (that), the verb takes the subjunctive form, marked by -o for 1st and 3rd person: tago (I/he go), akhriyo (I/he read), cuno (I/he eat). For 2nd person: tagto (you go), akhrito (you read). The subjunctive is the required mood in subordinate clauses after 'in'.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 5,
+              "type": "matching",
+              "question": "Match each future sentence to its Somali form.",
+              "question_translation": null,
+              "correct_answer": "I will eat:Waan doonayaa inaan cuno|You will go:Waad doonaysaa inaad tagto|He will write:Wuxuu doonayaa inuu qoro|She will read:Way doonaysaa inay akhriyo|We will come:Waan doonaynaa inaanu timaado",
+              "options": [
+                "I will eat:Waan doonayaa inaan cuno|You will go:Waad doonaysaa inaad tagto|He will write:Wuxuu doonayaa inuu qoro|She will read:Way doonaysaa inay akhriyo|We will come:Waan doonaynaa inaanu timaado"
+              ],
+              "hint": "Each uses doon + subjunctive with the appropriate person marking.",
+              "explanation": "I will eat: Waan doonayaa inaan cuno; You will go: Waad doonaysaa inaad tagto; He will write: Wuxuu doonayaa inuu qoro; She will read: Way doonaysaa inay akhriyo; We will come: Waaynu doonaynaa inaanu timaado. The doon verb conjugates for person (-ayaa, -aysaa, -aynaa), and the subjunctive verb also changes (cuno, tagto, qoro, akhriyo, timaado).",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "fill_blank",
+              "question": "The future construction 'doon + subjunctive' is actually a grammaticalization of the verb '___', which originally meant 'to want'.",
+              "question_translation": null,
+              "correct_answer": "doon",
+              "options": [
+                "doon"
+              ],
+              "hint": "Doon originally expressed desire/want and evolved into a future marker.",
+              "explanation": "Doon originally meant 'to want/desire' and has grammaticalized into a future tense auxiliary. This is a common cross-linguistic pattern — verbs of desire often evolve into future markers. In modern Somali, doonayaa can still mean both 'I want' and 'I will', with context disambiguating. The construction doon + in + subjunctive is the standard future pattern.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "order_index": 6,
+      "title": "Space & Modifiers",
+      "description": "Master prepositions, adjectives with yahay/tahay, demonstratives, and adverbs for richer expression.",
+      "color": "#06b6d4",
+      "icon": "map-pin",
+      "lessons": [
+        {
+          "id": 21,
+          "order_index": 1,
+          "title": "Prepositions",
+          "description": "Learn the four main Somali prepositions (ka, ku, la, u) as clitics and their multiple meanings.",
+          "grammar_topic": "Prepositions",
+          "cultural_note": "Prepositions in Somali reflect spatial relationships that are important in nomadic culture. Ka (from) indicates origin/source, which is important for tracing lineage and camel herds. U (for) reflects the strong emphasis on generosity and reciprocity.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How do prepositions work in Somali?",
+              "question_translation": null,
+              "correct_answer": "They are clitics that attach to the preceding word rather than standing alone",
+              "options": [
+                "They are independent words placed before the noun",
+                "They are suffixes on the noun",
+                "They are clitics that attach to the preceding word rather than standing alone",
+                "They are prefixes on the verb"
+              ],
+              "hint": "Somali prepositions have a unique syntactic behavior compared to English.",
+              "explanation": "Somali prepositions are clitics — they attach to the word that precedes them. The main prepositions are: ka (from, about, by), ku (in, on, with), la (with, and), u (to, for). Example: 'guriga ku' = in the house (the preposition ku cliticizes to the preceding focused element, not to guriga directly). They often appear combined with the focus markers.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "matching",
+              "question": "Match each Somali preposition to its primary meanings.",
+              "question_translation": null,
+              "correct_answer": "ka:from, about, by, than|ku:in, on, at, with (instrumental)|la:with (comitative), and|u:to, for (benefactive)",
+              "options": [
+                "ka:from, about, by, than|ku:in, on, at, with (instrumental)|la:with (comitative), and|u:to, for (benefactive)"
+              ],
+              "hint": "Each preposition has multiple meanings depending on context.",
+              "explanation": "Ka = from, about, by, than (ablative/comparative); Ku = in, on, at, with (instrumental, locative); La = with (comitative — 'together with'), and; U = to, for (benefactive/dative). These prepositions are clitics that attach to preceding words. They can combine with each other: kula = with you, kaga = from you.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "fill_blank",
+              "question": "'Waxaan shaqeeyaa ___ magaalada' = 'I work in the city'. Fill in the preposition.",
+              "question_translation": null,
+              "correct_answer": "ku",
+              "options": [
+                "ku"
+              ],
+              "hint": "Ku marks location 'in/at'.",
+              "explanation": "Waxaan shaqeeyaa ku magaalada = I work in the city. Actually, in natural Somali: 'Waxaan ku shaqeeyaa magaalada' = I in-work the city. The preposition ku (in/at) combines with the verb to indicate location. The preposition often appears before the verb or cliticized to the focus marker.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In 'Waxaan ka hadlayaa' (I am talking about it), what does 'ka' mean?",
+              "question_translation": null,
+              "correct_answer": "About (concerning)",
+              "options": [
+                "From",
+                "About (concerning)",
+                "In",
+                "To"
+              ],
+              "hint": "Ka has multiple meanings including 'from', 'about', and 'by'.",
+              "explanation": "Waxaan ka hadlayaa = I am talking about (it). Ka = about (concerning). The verb hadal (talk) takes ka to mean 'talk about'. This is an example of a verb-specific preposition combination. Different verbs require different prepositions: ka hadal = talk about, ku qor = write with, u keen = bring for.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The preposition 'la' means 'with' in the sense of accompaniment. 'Waxaan ___ shaqeeyaa' = 'I work with him/her'.",
+              "question_translation": null,
+              "correct_answer": "la",
+              "options": [
+                "la"
+              ],
+              "hint": "La is the comitative preposition meaning 'together with'.",
+              "explanation": "Waxaan la shaqeeyaa = I work with (him/her). La = with (comitative). The preposition la indicates accompaniment or joint action. Unlike ku (instrumental 'with'), la specifically means 'together with' a person. Example: 'Waxaan la hadlayaa' = I am talking with (someone).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In 'Buug baan u qoray' (I wrote a book for him), identify the preposition and its function.",
+              "question_translation": null,
+              "correct_answer": "u = for (benefactive/dative)",
+              "options": [
+                "u = for (benefactive/dative)",
+                "ka = from",
+                "ku = with",
+                "la = with"
+              ],
+              "hint": "The preposition u marks the beneficiary of the action.",
+              "explanation": "U = for/to (benefactive). In 'Buug baan u qoray' = I wrote a book for (him). The preposition u indicates the beneficiary of the writing. The sentence structure uses baa focus: Buug (focused object) + baan (baa + aan) + u (for) + qoray (wrote). The preposition u marks the indirect object.",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "order_index": 2,
+          "title": "Adjectives",
+          "description": "Learn how Somali adjectives work predicatively with yahay/tahay and how they follow nouns in attributive position.",
+          "grammar_topic": "Adjectives",
+          "cultural_note": "Somali has a rich vocabulary for describing camels, with dozens of adjectives for color, age, and quality. This reflects the cultural importance of camel husbandry. Beauty (qurux) is an important concept in Somali poetry.",
+          "estimated_minutes": 10,
+          "difficulty": "medium",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How are adjectives used predicatively in Somali?",
+              "question_translation": null,
+              "correct_answer": "With the copula yahay/tahay (is/are)",
+              "options": [
+                "They agree in gender and number with the noun",
+                "With the copula yahay/tahay (is/are)",
+                "They are placed before the noun like English",
+                "They take the definite article"
+              ],
+              "hint": "Somali adjectives use a special construction when used as predicates.",
+              "explanation": "Adjectives used predicatively (as the main predicate) take the copula yahay (is, masc) or tahay (is, fem): 'Axmed wuu weyn yahay' = Ahmed is big; 'Naagtu way qurux badan tahay' = The woman is beautiful. The pattern is: Subject + waa-pronoun + Adjective + yahay/tahay.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'Axmed wuu weyn ___' = 'Ahmed is big' (masculine subject).",
+              "question_translation": null,
+              "correct_answer": "yahay",
+              "options": [
+                "yahay"
+              ],
+              "hint": "Yahay is the masculine form of the copula.",
+              "explanation": "Axmed wuu weyn yahay = Ahmed is big. Yahay = is (masculine copula). For a feminine subject: 'Naagtu way weyn tahay' = The woman is big. Tahay = is (feminine copula). The gender agreement of yahay/tahay matches the subject.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each adjective to its Somali form and gender agreement pattern.",
+              "question_translation": null,
+              "correct_answer": "good:wanaagsan|big:wyn/weyn|beautiful:qurux badan|new:cusub|old (thing):duug ah|hot:kulul|cold:qabow|sweet:macaan",
+              "options": [
+                "good:wanaagsan|big:wyn/weyn|beautiful:qurux badan|new:cusub|old (thing):duug ah|hot:kulul|cold:qabow|sweet:macaan"
+              ],
+              "hint": "Somali adjectives come after the noun and use compound structures.",
+              "explanation": "Wanaagsan = good; Weyn = big; Qurux badan = beautiful (lit. beauty having); Cusub = new; Duug ah = old (for things); Kulul = hot; Qabow = cold; Macaan = sweet. Adjectives follow the noun: 'guri weyn' = a big house; 'shaah macaan' = sweet tea. Some adjectives are compound (qurux badan = beauty having).",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "In 'Guriga wuu weyn yahay' (The house is big), why is 'wuu' used instead of 'way' for 'guriga' (house)?",
+              "question_translation": null,
+              "correct_answer": "Guri is a masculine noun, so wuu (masc) is used",
+              "options": [
+                "Guri is a masculine noun, so wuu (masc) is used",
+                "All inanimate objects use wuu",
+                "It is a default form",
+                "Wuu and way are interchangeable"
+              ],
+              "hint": "The copula pronoun must agree with the noun's gender.",
+              "explanation": "Guriga wuu weyn yahay = The house is big. Wuu is used because guri (house) is a MASCULINE noun. The pronoun in the copula construction agrees with the noun's grammatical gender. For a feminine noun: 'Naagta way weyn tahay' = The woman is big (way + tahay = feminine).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "'Naagtu way ___ tahay' = 'The woman is beautiful'. Use 'qurux badan'.",
+              "question_translation": null,
+              "correct_answer": "qurux badan",
+              "options": [
+                "qurux badan"
+              ],
+              "hint": "The adjective phrase qurux badan goes between the pronoun and the copula tahay.",
+              "explanation": "Naagtu way qurux badan tahay = The woman is beautiful. Qurux badan = beautiful (lit. 'beauty having'). This compound adjective construction is common: [noun] + [quality] + badan/yar/etc. The structure is: Subject + way + Adjective phrase + tahay. Badan = much/many, used to intensify the noun qurux (beauty).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Form 'The tea is sweet' using: 'shaahu | way | macaan | tahay'.",
+              "question_translation": null,
+              "correct_answer": "Shaahu way macaan tahay",
+              "options": [
+                "Shaahu",
+                "way",
+                "macaan",
+                "tahay"
+              ],
+              "hint": "Shaah is feminine, so use way + tahay.",
+              "explanation": "Shaahu way macaan tahay = The tea is sweet. Shaahu = the tea (subject case); way = she/it is (feminine); macaan = sweet; tahay = is (feminine copula). Both way and tahay agree with the feminine noun shaah. The adjective macaan comes between the pronoun and the copula.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "order_index": 3,
+          "title": "Demonstratives",
+          "description": "Learn Somali demonstratives (kan/tan, kaas/taas, kuwan/kuwaas) for near/far and masculine/feminine distinctions.",
+          "grammar_topic": "Demonstratives",
+          "cultural_note": "Demonstratives are used frequently in Somali market negotiations. Pointing with 'kan' (this one) and 'kaas' (that one) while haggling is a common practice. Proper demonstrative usage shows awareness of spatial relationships.",
+          "estimated_minutes": 8,
+          "difficulty": "easy",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What are the basic demonstrative pronouns in Somali for 'this' (near)?",
+              "question_translation": null,
+              "correct_answer": "kan (masc), tan (fem)",
+              "options": [
+                "kan (masc), tan (fem)",
+                "kuwan (masc), kuwan (fem)",
+                "kaas (masc), taas (fem)",
+                "kale (masc), tale (fem)"
+              ],
+              "hint": "Demonstratives in Somali distinguish gender and distance.",
+              "explanation": "Kan = this (masculine, near speaker); Tan = this (feminine, near speaker). For plural: Kuwan = these. For 'that' (far from speaker): Kaas (masc), Taas (fem), Kuwaas (plural). The pattern is k- for masculine, t- for feminine, with -an for near and -as for far.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "matching",
+              "question": "Match each demonstrative to its meaning based on gender and distance.",
+              "question_translation": null,
+              "correct_answer": "kan:this (masc, near)|tan:this (fem, near)|kaas:that (masc, far)|taas:that (fem, far)|kuwan:these (plural, near)|kuwaas:those (plural, far)",
+              "options": [
+                "kan:this (masc, near)|tan:this (fem, near)|kaas:that (masc, far)|taas:that (fem, far)|kuwan:these (plural, near)|kuwaas:those (plural, far)"
+              ],
+              "hint": "The pattern: k-/t- for gender, -an/-as for distance, kuw- for plural.",
+              "explanation": "Kan = this (masc, near); Tan = this (fem, near); Kaas = that (masc, far); Taas = that (fem, far); Kuwan = these (plural, near); Kuwaas = those (plural, far). The consonant k marks masculine, t marks feminine. The vowel -a- marks near, -aa- marks far. The prefix kuw- marks plural.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "fill_blank",
+              "question": "'___ wuu weyn yahay' = 'This (one) is big' (referring to a masculine noun like guri).",
+              "question_translation": null,
+              "correct_answer": "Kan",
+              "options": [
+                "Kan"
+              ],
+              "hint": "Kan is the masculine near demonstrative.",
+              "explanation": "Kan wuu weyn yahay = This (one) is big. Kan = this (masculine demonstrative pronoun). It stands in for a masculine noun. Wuu = he/it is (masculine); weyn = big; yahay = is. Demonstratives can function as pronouns replacing the noun.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "How do you say 'That book' (referring to a book far from speaker) in Somali?",
+              "question_translation": null,
+              "correct_answer": "Buuggaas",
+              "options": [
+                "Buugkan",
+                "Buugtan",
+                "Buuggaas",
+                "Buugtaan"
+              ],
+              "hint": "The demonstrative suffix attaches to the definite noun with -aas for far masculine.",
+              "explanation": "Buuggaas = That book (far). The demonstrative can follow the definite noun: buug-ga-aas = book-the-that. The suffix -aas attaches to the definite article -ga. For feminine: naagtaas = that woman. The near form would be buuggaan = this book (near).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "sentence_constructor",
+              "question": "Form 'These are good' (referring to feminine plural items) using: 'kuwan | way | wanaagsan | yihiin'.",
+              "question_translation": null,
+              "correct_answer": "Kuwan way wanaagsan yihiin",
+              "options": [
+                "Kuwan",
+                "way",
+                "wanaagsan",
+                "yihiin"
+              ],
+              "hint": "Kuwan = these (plural); yihiin = are (plural copula).",
+              "explanation": "Kuwan way wanaagsan yihiin = These are good. Kuwan = these (plural demonstrative); way = they are; wanaagsan = good; yihiin = are (plural form of yahay). Yihiin is the plural copula used with plural subjects. Note: yahay (singular) → yihiin (plural).",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In 'Ninkan waa Axmed' (This man is Ahmed), what is the grammatical function of '-kan'?",
+              "question_translation": null,
+              "correct_answer": "Demonstrative suffix attached to the noun, making it definite and specific",
+              "options": [
+                "Definite article",
+                "Demonstrative suffix attached to the noun, making it definite and specific",
+                "Plural marker",
+                "Case marker"
+              ],
+              "hint": "-kan combines the function of the definite article and the demonstrative.",
+              "explanation": "Ninkan = this man. Nin (man) + kan (this) → ninkan. The demonstrative -kan attaches directly to the noun, replacing the regular definite article -ka. It functions as both the definite article and the demonstrative simultaneously. This is a common pattern: nin + ka (the) + kan (this) contracted to ninkan.",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "order_index": 4,
+          "title": "Adverbs",
+          "description": "Learn time, place, and manner adverbs in Somali and their typical sentence positions.",
+          "grammar_topic": "Adverbs",
+          "cultural_note": "Time expressions are culturally significant in Somali. The five daily prayer times structure the day, and references to waqtiga (prayer time) are common temporal markers. 'Hadda' (now) reflects the importance of the present moment.",
+          "estimated_minutes": 8,
+          "difficulty": "easy",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "matching",
+              "question": "Match each adverb to its English meaning.",
+              "question_translation": null,
+              "correct_answer": "halkan:here|halkaas:there|maanta:today|shalay:yesterday|berri:tomorrow|hadda:now|markaas:then|si fiican:well/properly",
+              "options": [
+                "halkan:here|halkaas:there|maanta:today|shalay:yesterday|berri:tomorrow|hadda:now|markaas:then|si fiican:well/properly"
+              ],
+              "hint": "Somali adverbs of place often use the hal- root meaning 'place'.",
+              "explanation": "Halkan = here (hal + kan 'this place'); Halkaas = there (hal + kaas 'that place'); Maanta = today; Shalay = yesterday; Berri = tomorrow; Hadda = now; Markaas = then (at that time); Si fiican = well (si = manner + fiican = good). Adverbs of place use demonstrative elements.",
+              "difficulty": "easy",
+              "points": 15
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'Waxaan imanayaa ___' = 'I am coming tomorrow'.",
+              "question_translation": null,
+              "correct_answer": "berri",
+              "options": [
+                "berri"
+              ],
+              "hint": "Berri = tomorrow.",
+              "explanation": "Waxaan imanayaa berri = I am coming tomorrow. Berri = tomorrow. Adverbs of time typically appear at the end of the sentence or after the verb. Other time adverbs: maanta (today), shalay (yesterday), bishan (this month), sanadkan (this year).",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "How do manner adverbs typically form in Somali?",
+              "question_translation": null,
+              "correct_answer": "Using 'si' (manner/way) + adjective: si fiican = well",
+              "options": [
+                "By adding -ly to the adjective",
+                "Using 'si' (manner/way) + adjective: si fiican = well",
+                "By using the adjective in its bare form",
+                "By adding the definite article"
+              ],
+              "hint": "Somali uses a compound structure for manner adverbs.",
+              "explanation": "Manner adverbs are formed with si (manner/way) + adjective: si fiican = well (manner + good); si xun = badly (manner + bad); si dhaqso = quickly (manner + fast); si kale = differently (manner + other). This is a productive pattern for creating manner adverbs from adjectives.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 4,
+              "type": "fill_blank",
+              "question": "'Wuxuu u shaqeeyaa ___' = 'He works well'. Use the manner adverb.",
+              "question_translation": null,
+              "correct_answer": "si fiican",
+              "options": [
+                "si fiican"
+              ],
+              "hint": "Si fiican = well (manner + good).",
+              "explanation": "Wuxuu u shaqeeyaa si fiican = He works well. Si fiican = well (manner + good). The preposition u (for/in) often appears before the manner adverb. The structure is: Subject + u + verb + si + adjective. This pattern is very common for describing how actions are performed.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "sentence_constructor",
+              "question": "Form 'I came here yesterday' using: 'waxaan | halkan | imid | shalay'.",
+              "question_translation": null,
+              "correct_answer": "Waxaan imid halkan shalay",
+              "options": [
+                "Waxaan",
+                "imid",
+                "halkan",
+                "shalay"
+              ],
+              "hint": "The word order is SOV with adverbs following the verb.",
+              "explanation": "Waxaan imid halkan shalay = I came here yesterday. Waxaan = I (declarative); imid = I came (past tense of iman 'to come'); halkan = here; shalay = yesterday. Adverbs of place and time typically follow the verb in SOV order. Multiple adverbs follow the order: place before time.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 6,
+              "type": "multiple_choice",
+              "question": "In 'Hadda ma shaqayn karo' (I cannot work now), what type of adverb is 'hadda'?",
+              "question_translation": null,
+              "correct_answer": "Time adverb",
+              "options": [
+                "Manner adverb",
+                "Place adverb",
+                "Time adverb",
+                "Degree adverb"
+              ],
+              "hint": "Hadda refers to the present moment.",
+              "explanation": "Hadda = now (time adverb). It refers to the temporal location of the action. In this sentence: Hadda ma shaqayn karo = Now (I) cannot work. Hadda modifies the time of the inability. Time adverbs can appear at the beginning of the sentence for emphasis.",
+              "difficulty": "easy",
+              "points": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "order_index": 7,
+      "title": "Complex Grammar",
+      "description": "Master advanced structures: relative clauses, voice transformation, verbal nouns, and conditional sentences.",
+      "color": "#f97316",
+      "icon": "zap",
+      "lessons": [
+        {
+          "id": 25,
+          "order_index": 1,
+          "title": "Relative Clauses",
+          "description": "Learn how to form relative clauses using the marker ee and understand the role of the head noun.",
+          "grammar_topic": "Relative Clauses",
+          "cultural_note": "Relative clauses are common in Somali storytelling, where characters are often introduced with descriptive clauses. 'Ninkii ee...' (The man who...) is a classic narrative opening in oral tales.",
+          "estimated_minutes": 15,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How are relative clauses formed in Somali?",
+              "question_translation": null,
+              "correct_answer": "Using the relative marker 'ee' or vowel change with a resumptive pronoun",
+              "options": [
+                "Using the English-style relative pronoun 'who/which'",
+                "Using the relative marker 'ee' or vowel change with a resumptive pronoun",
+                "By simply placing the modifying clause after the noun",
+                "Using word order inversion"
+              ],
+              "hint": "Somali relative clauses use a special marker and maintain the head noun's grammatical function.",
+              "explanation": "Relative clauses in Somali use the marker 'ee' (or vowel mutation) on the definite article. The head noun retains its case marking, and a resumptive pronoun may appear in the relative clause to mark the noun's function: 'Ninkii ee buugga akhriyay...' = The man who read the book... The article -kii/-tii marks the relative head, and 'ee' introduces the clause.",
+              "difficulty": "hard",
+              "points": 15
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'Ninkii ___ buugga akhriyay wuu yimid' = 'The man who read the book came'. Fill in the relative marker.",
+              "question_translation": null,
+              "correct_answer": "ee",
+              "options": [
+                "ee"
+              ],
+              "hint": "Ee is the most common relative clause marker.",
+              "explanation": "Ninkii ee buugga akhriyay wuu yimid = The man who read the book came. Ninkii = the man (relative head, with -kii suffix); ee = relative marker; buugga = the book; akhriyay = read; wuu yimid = he came. The relative clause is embedded without changing the main clause word order.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "In the relative clause 'guriga ee ku yaal magaalada' (the house that is in the city), what does the suffix '-ga' on 'guriga' indicate?",
+              "question_translation": null,
+              "correct_answer": "It is the definite article in object case (the head noun of the relative clause)",
+              "options": [
+                "It is a relative marker",
+                "It is the definite article in object case (the head noun of the relative clause)",
+                "It marks plural",
+                "It indicates genitive case"
+              ],
+              "hint": "The head noun of a relative clause carries the definite article.",
+              "explanation": "Guriga = the house (definite, object case). The -ga is the masculine definite article in object case. The head noun of a relative clause is always definite. The relative marker ee follows: guriga ee ku yaal magaalada = the house that (is) in the city. Ku = in (preposition); yaal = is located; magaalada = the city.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 4,
+              "type": "sentence_constructor",
+              "question": "Form 'The woman who drank tea' using: 'naagtii | ee | shaah | cabbay'.",
+              "question_translation": null,
+              "correct_answer": "Naagtii ee shaah cabbay",
+              "options": [
+                "Naagtii",
+                "ee",
+                "shaah",
+                "cabbay"
+              ],
+              "hint": "Naagtii = the woman (relative head); ee = relative marker; shaah = tea; cabbay = drank.",
+              "explanation": "Naagtii ee shaah cabbay = The woman who drank tea. Naagtii = the woman (with -tii relative/definite suffix); ee = relative marker; shaah = tea; cabbay = drank. The relative clause follows the head noun directly. The verb cabbay shows agreement with the feminine subject (implied by the head noun).",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "In 'Buugga aan akhriyay wuu wanaagsan yahay' (The book that I read is good), what is the function of 'aan'?",
+              "question_translation": null,
+              "correct_answer": "It is the 1st person subject pronoun clitic 'I' within the relative clause",
+              "options": [
+                "It is the definite article",
+                "It is the 1st person subject pronoun clitic 'I' within the relative clause",
+                "It is a question marker",
+                "It is the negative particle"
+              ],
+              "hint": "Aan appears as the subject of the relative clause 'that I read'.",
+              "explanation": "Buugga aan akhriyay wuu wanaagsan yahay = The book that I read is good. Buugga = the book (head noun); aan = I (subject clitic within the relative clause); akhriyay = read; wuu wanaagsan yahay = it is good. The relative clause uses no overt relative marker (ee may be dropped in some contexts). The pronoun 'aan' marks the subject of the embedded clause.",
+              "difficulty": "hard",
+              "points": 25
+            },
+            {
+              "order_index": 6,
+              "type": "fill_blank",
+              "question": "Relative clauses in Somali always follow the ___ they modify, maintaining the language's head-initial structure in noun modification.",
+              "question_translation": null,
+              "correct_answer": "head noun",
+              "options": [
+                "head noun"
+              ],
+              "hint": "Relative clauses are postnominal — they come after the noun.",
+              "explanation": "Relative clauses in Somali follow the head noun (postnominal). This is consistent with Somali's generally head-initial structure in noun phrases. The head noun is always marked as definite. Unlike English, Somali does not have relative pronouns like 'who, which, that' — the relative marker ee serves this function uniformly.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "order_index": 2,
+          "title": "Voice Transformation",
+          "description": "Learn passive voice formation with -am/-la and causative voice with -i/-iy suffixes.",
+          "grammar_topic": "Voice",
+          "cultural_note": "The passive construction with la (unspecified agent) reflects cultural tendencies to avoid direct blame or attribution. It is considered more polite to use the passive when discussing sensitive actions.",
+          "estimated_minutes": 15,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How is the passive voice formed in Somali?",
+              "question_translation": null,
+              "correct_answer": "Using the passive suffix -am/-mom on the verb stem",
+              "options": [
+                "Using an auxiliary verb 'to be'",
+                "Using the passive suffix -am/-mom on the verb stem",
+                "By changing word order to OVS",
+                "Using a special passive particle"
+              ],
+              "hint": "Somali forms passives morphologically by adding a suffix to the verb.",
+              "explanation": "The passive is formed by adding -am (or variants -mom, -im) to the verb stem: keen (bring) → keen-am-a (be brought); akhri (read) → akhri-m-a (be read); fur (open) → fur-an-a (be opened). The passive subject (original object) appears in subject case. The agent may be omitted or marked with the preposition laga (from by).",
+              "difficulty": "hard",
+              "points": 15
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'Buugga waa ___' = 'The book was read'. Use the passive of 'akhri'.",
+              "question_translation": null,
+              "correct_answer": "akhrama",
+              "options": [
+                "akhrama"
+              ],
+              "hint": "Akhri + am + a → akhrama (was read, passive).",
+              "explanation": "Buugga waa akhrama = The book was read. Akhri (read) + am (passive suffix) + a → akhrama. The passive construction promotes the object (buugga = the book) to subject position. The verb takes the passive suffix -am. The agent (who read it) is not specified. The declarative waa marks the statement.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "In 'Guriga waa la dhisay' (The house was built), what does 'la' indicate?",
+              "question_translation": null,
+              "correct_answer": "It marks the passive with an unspecified agent ('by someone')",
+              "options": [
+                "It is the preposition 'with'",
+                "It marks the passive with an unspecified agent ('by someone')",
+                "It is a focus marker",
+                "It means 'and'"
+              ],
+              "hint": "La + verb often marks passive constructions with an unspecified agent.",
+              "explanation": "Guriga waa la dhisay = The house was built (by someone). La = unspecified agent marker in passive. Dhisay = built (past). The combination la + verb indicates that the action was performed by an unspecified or unknown agent. This is a common passive strategy. Compare: 'Guriga wuu dhisay' = He built the house (active).",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 4,
+              "type": "sentence_constructor",
+              "question": "Form 'The letter was written' using: 'warqadda | waa | la | qoray'.",
+              "question_translation": null,
+              "correct_answer": "Warqadda waa la qoray",
+              "options": [
+                "Warqadda",
+                "waa",
+                "la",
+                "qoray"
+              ],
+              "hint": "Warqadda = the letter (fem); la = unspecified agent; qoray = wrote.",
+              "explanation": "Warqadda waa la qoray = The letter was written. Warqadda = the letter (feminine, definite); waa = declarative; la = passive unspecified agent marker; qoray = wrote. The passive construction with la + verb is very common. It avoids specifying who performed the action.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The causative voice (making someone do something) is formed by adding the suffix ___ to the verb stem. Example: 'akhri' (read) → '___' (make read / teach).",
+              "question_translation": null,
+              "correct_answer": "-i/-iy,akhiri",
+              "options": [
+                "-i/-iy,akhiri"
+              ],
+              "hint": "The causative suffix -i/-iy changes the verb's argument structure.",
+              "explanation": "The causative suffix is -i or -iy: akhri (read) → akhri-y (make read = teach); cun (eat) → cun-i (feed = make eat); tag (go) → tag-i (send = make go). The causative adds a causer subject: 'Waxaan akhiriyay wiilka' = I taught the boy (lit. I made-read the boy).",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In 'Wiilka waxaa loo cunay cunto' (Food was given to the boy), identify the voice and grammatical roles.",
+              "question_translation": null,
+              "correct_answer": "Passive with beneficiary; Wiilka = beneficiary, cunto = patient/theme",
+              "options": [
+                "Active voice",
+                "Passive with beneficiary; Wiilka = beneficiary, cunto = patient/theme",
+                "Causative voice",
+                "Reciprocal voice"
+              ],
+              "hint": "The sentence shows a passive construction where the beneficiary is promoted.",
+              "explanation": "Wiilka waxaa loo cunay cunto = Food was given to the boy / The boy was given food. This is a passive construction with loo (la + u = passive + beneficiary). Wiilka = the boy (beneficiary, subject case); cunto = food (patient); loo cunay = was given. The combination la + u marks the passive with a beneficiary argument.",
+              "difficulty": "hard",
+              "points": 25
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "order_index": 3,
+          "title": "Verbal Nouns",
+          "description": "Learn infinitive formation (-i) and abstract verbal nouns (-in), and how they function as subjects and objects.",
+          "grammar_topic": "Verbal Nouns",
+          "cultural_note": "Verbal nouns are common in Somali proverbs. 'Cunnada waa nolol' (Eating is life) reflects the cultural value of hospitality and shared meals. Verbal nouns also appear in book titles and formal speech.",
+          "estimated_minutes": 12,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "What is the infinitive/verbal noun suffix in Somali?",
+              "question_translation": null,
+              "correct_answer": "-i (or -in for the abstract verbal noun)",
+              "options": [
+                "-ay/-ey",
+                "-aa/-taa",
+                "-i (or -in for the abstract verbal noun)",
+                "-do/dhayo"
+              ],
+              "hint": "The infinitive is formed by adding -i to the imperative stem.",
+              "explanation": "The infinitive suffix is -i: keen-i (to bring), akhri-i (to read), qor-i (to write), cun-i (to eat). The abstract verbal noun uses -in: keenin (bringing), akhrin (reading), qorin (writing), cunnay/in (eating). The -i infinitive is used with auxiliaries: 'Waan doonayaa inaan tago' = I want to go.",
+              "difficulty": "medium",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "The infinitive of 'tag' (go) is '___' (to go).",
+              "question_translation": null,
+              "correct_answer": "tagi",
+              "options": [
+                "tagi"
+              ],
+              "hint": "Add -i to the imperative stem.",
+              "explanation": "Tagi = to go. Tag (imperative) + i (infinitive suffix) → tagi. The infinitive is used in subordinate clauses after 'in' (that): 'Waxaan doonayaa inaan tagi' (older form) or 'inaan tago' (subjunctive). The -i form is also the citation form in some grammatical descriptions.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 3,
+              "type": "matching",
+              "question": "Match each verb to its infinitive (-i) and verbal noun (-in) forms.",
+              "question_translation": null,
+              "correct_answer": "keen:keeni/keenin|akhri:akhri/akhrin|qor:qori/qorin|cun:cuni/cunin|tag:tagi/tagid|fur:furi/furitaan",
+              "options": [
+                "keen:keeni/keenin|akhri:akhri/akhrin|qor:qori/qorin|cun:cuni/cunin|tag:tagi/tagid|fur:furi/furitaan"
+              ],
+              "hint": "Most verbs add -i for infinitive, but the abstract verbal noun form varies.",
+              "explanation": "Keen → keeni (inf) / keenin (verbal noun); Akhri → akhri (inf) / akhrin (verbal noun); Qor → qori (inf) / qorin (verbal noun); Cun → cuni (inf) / cunin (verbal noun); Tag → tagi (inf) / tagid (verbal noun); Fur → furi (inf) / furitaan (verbal noun). The -in form is more abstract: 'Akhrinta waa muhiim' = Reading is important.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "fill_blank",
+              "question": "'___ waa muhiim' = 'Reading is important' (use the verbal noun of 'akhri').",
+              "question_translation": null,
+              "correct_answer": "Akhrinta",
+              "options": [
+                "Akhrinta"
+              ],
+              "hint": "The verbal noun akhrin + ta (definite article) → akhrinta.",
+              "explanation": "Akhrinta waa muhiim = Reading (the reading) is important. Akhrin (verbal noun of akhri 'read') + ta (feminine definite article) → akhrinta. Verbal nouns act as nouns grammatically — they can take case marking, the definite article, and serve as subjects or objects.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "multiple_choice",
+              "question": "In 'Waxaan jeclahay inaan akhrio' (I like to read), why is the subjunctive 'akhrio' used instead of the infinitive 'akhri'?",
+              "question_translation": null,
+              "correct_answer": "After 'in' (that), the subjunctive mood (-o) is required, not the bare infinitive",
+              "options": [
+                "Akhri is incorrect",
+                "After 'in' (that), the subjunctive mood (-o) is required, not the bare infinitive",
+                "The infinitive and subjunctive are interchangeable",
+                "Jeclahay requires the subjunctive"
+              ],
+              "hint": "The complementizer 'in' triggers the subjunctive mood.",
+              "explanation": "Waxaan jeclahay inaan akhrio = I like that I read = I like to read. After the complementizer 'in' (that), the verb takes the subjunctive form (-o for 1st/3rd person): akhrio. The infinitive -i is not used after 'in'. This is a strict grammatical rule: in + subjunctive, never in + infinitive.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Form 'Writing is good' using the verbal noun: 'qorin | waa | fiican | tahay'.",
+              "question_translation": null,
+              "correct_answer": "Qorinta waa fiican tahay",
+              "options": [
+                "Qorinta",
+                "waa",
+                "fiican",
+                "tahay"
+              ],
+              "hint": "Use the verbal noun qorin + ta (definite) as subject.",
+              "explanation": "Qorinta waa fiican tahay = Writing is good. Qorin (writing, verbal noun) + ta (definite article) → qorinta. Waa = declarative; fiican = good; tahay = is (feminine, agreeing with qorinta, which is grammatically feminine). Verbal nouns with -in are typically feminine.",
+              "difficulty": "medium",
+              "points": 15
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "order_index": 4,
+          "title": "Conditional Sentences",
+          "description": "Master conditional sentences with haddii + subjunctive, and understand counterfactual constructions.",
+          "grammar_topic": "Conditionals",
+          "cultural_note": "Conditional expressions are common in Somali wisdom sayings. 'Haddii aad doonayso inaad wax barato, akhri' (If you want to learn, read) reflects the value placed on self-education and literacy.",
+          "estimated_minutes": 15,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "How are conditional ('if') sentences formed in Somali?",
+              "question_translation": null,
+              "correct_answer": "Using 'haddii' (if) + subjunctive in the protasis (if-clause)",
+              "options": [
+                "Using 'haddii' (if) + subjunctive in the protasis (if-clause)",
+                "Using 'ma' + past tense",
+                "Using 'waa' + future marker",
+                "Word order change only"
+              ],
+              "hint": "Haddii introduces conditional clauses and requires the subjunctive mood.",
+              "explanation": "Conditional sentences use haddii (if) with the subjunctive in the if-clause: 'Haddii uu yimaado, waan la hadli doonaa' = If he comes, I will talk to him. Haddii + subjunctive (-o ending) in the protasis, followed by the main clause with future doon or present habitual.",
+              "difficulty": "hard",
+              "points": 15
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "'Haddii aan ___' = 'If I go'. Use the subjunctive of 'tag'.",
+              "question_translation": null,
+              "correct_answer": "tago",
+              "options": [
+                "tago"
+              ],
+              "hint": "Tago = I go (subjunctive, 1st person).",
+              "explanation": "Haddii aan tago = If I go. Haddii = if; aan = I; tago = go (subjunctive, 1st person singular). The subjunctive uses -o for 1st and 3rd persons. This is the protasis (condition) of a conditional sentence.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 3,
+              "type": "sentence_constructor",
+              "question": "Form 'If you come, I will see you' using: 'haddii | aad | timaado | waan | ku | arki | doonayaa'.",
+              "question_translation": null,
+              "correct_answer": "Haddii aad timaado waan ku arki doonayaa",
+              "options": [
+                "Haddii",
+                "aad",
+                "timaado",
+                "waan",
+                "ku",
+                "arki",
+                "doonayaa"
+              ],
+              "hint": "Haddii aad timaado = if you come; waan ku arki doonayaa = I will see you.",
+              "explanation": "Haddii aad timaado waan ku arki doonayaa = If you come, I will see you. Haddii = if; aad = you; timaado = you come (subjunctive); waan = I; ku = you (object); arki = see; doonayaa = will (future auxiliary). The condition uses subjunctive, the consequence uses doon + infinitive for future.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 4,
+              "type": "multiple_choice",
+              "question": "What is the difference between 'haddii' and 'markii' in conditional/conjunctive contexts?",
+              "question_translation": null,
+              "correct_answer": "Haddii = if (hypothetical); markii = when (temporal/certain)",
+              "options": [
+                "They are interchangeable",
+                "Haddii = if (hypothetical); markii = when (temporal/certain)",
+                "Haddii is formal; markii is colloquial",
+                "Haddii is past; markii is future"
+              ],
+              "hint": "These two conjunctions express different degrees of certainty.",
+              "explanation": "Haddii = if (hypothetical, uncertain condition); Markii = when (at the time that, more certain). 'Haddii uu yimaado' = If he comes (he may or may not); 'Markii uu yimid' = When he came (he definitely came). Haddii requires the subjunctive; markii typically uses the indicative past.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 5,
+              "type": "fill_blank",
+              "question": "The counterfactual conditional ('If I had gone, I would have seen...') uses 'haddii' + past subjunctive + ___ for the consequence clause.",
+              "question_translation": null,
+              "correct_answer": "past conditional with lahaa or doon+past",
+              "options": [
+                "past conditional with lahaa or doon+past"
+              ],
+              "hint": "Counterfactuals use a special construction to indicate that the condition was not met.",
+              "explanation": "Counterfactual: 'Haddii aan tagay lahaa, waan arki lahaa' = If I had gone, I would have seen. Lahaa = would have (conditional marker). The structure is: haddii + past tense + lahaa (in the protasis), and the apodosis also uses lahaa. Lahaa indicates irrealis (contrary to fact).",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "grammar_identify",
+              "question": "In 'Haddii aan shaah cabbo, waan nasanahay' (If I drink tea, I relax), identify the mood of each clause.",
+              "question_translation": null,
+              "correct_answer": "Protasis: subjunctive; Apodosis: present habitual",
+              "options": [
+                "Both clauses are past tense",
+                "Protasis: subjunctive; Apodosis: present habitual",
+                "Both clauses are subjunctive",
+                "Protasis: indicative; Apodosis: imperative"
+              ],
+              "hint": "The if-clause uses subjunctive, the main clause uses present habitual for general truths.",
+              "explanation": "Haddii aan shaah cabbo, waan nasanahay = If I drink tea, I relax. Protasis (if-clause): haddii aan shaah cabbo = if I drink tea — subjunctive (cabbo, not cabbaa). Apodosis (main clause): waan nasanahay = I relax — present habitual. This expresses a general conditional truth. The subjunctive in the protasis is triggered by haddii.",
+              "difficulty": "hard",
+              "points": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "order_index": 8,
+      "title": "Mastery",
+      "description": "Synthesize all grammar knowledge in complex translation and guided free composition exercises.",
+      "color": "#ec4899",
+      "icon": "award",
+      "lessons": [
+        {
+          "id": 29,
+          "order_index": 1,
+          "title": "Complex Translation",
+          "description": "Apply all learned grammar in complex translation exercises combining relative clauses, focus markers, tense, voice, and conditionals.",
+          "grammar_topic": "Translation",
+          "cultural_note": "Translation exercises prepare learners for real-world communication, where multiple grammatical structures co-occur. Somali business and academic settings require combining complex structures fluently.",
+          "estimated_minutes": 20,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "fill_blank",
+              "question": "Translate into Somali: 'The woman who drank the tea is my mother.' Use: naagtii | ee | shaah | cabbay | hooyaday | tahay | way.",
+              "question_translation": null,
+              "correct_answer": "Naagtii ee shaah cabbay hooyaday way tahay",
+              "options": [
+                "Naagtii",
+                "ee",
+                "shaah",
+                "cabbay",
+                "hooyaday",
+                "way",
+                "tahay"
+              ],
+              "hint": "Combine relative clause with equational sentence.",
+              "explanation": "Naagtii ee shaah cabbay hooyaday way tahay = The woman who drank the tea is my mother. Naagtii = the woman (relative head); ee = relative marker; shaah = tea; cabbay = drank; hooyaday = my mother; way = she is; tahay = is (feminine copula). The relative clause modifies naagtii, and the equational clause identifies her as hooyaday.",
+              "difficulty": "hard",
+              "points": 25
+            },
+            {
+              "order_index": 2,
+              "type": "sentence_constructor",
+              "question": "Translate: 'Ahmed brought the book that I read.' Use: Axmed | baa | buugga | aan | akhriyay | keenay.",
+              "question_translation": null,
+              "correct_answer": "Axmed baa buugga aan akhriyay keenay",
+              "options": [
+                "Axmed",
+                "baa",
+                "buugga",
+                "aan",
+                "akhriyay",
+                "keenay"
+              ],
+              "hint": "Focus on Ahmed (baa), with a relative clause modifying the book.",
+              "explanation": "Axmed baa buugga aan akhriyay keenay = AHMED brought the book that I read. Axmed (focused subject) + baa + buugga (the book, head noun) + aan akhriyay (that I read, relative clause) + keenay (brought). The baa emphasizes Axmed. The relative clause 'aan akhriyay' modifies buugga without an overt relative marker.",
+              "difficulty": "hard",
+              "points": 25
+            },
+            {
+              "order_index": 3,
+              "type": "multiple_choice",
+              "question": "Translate into Somali: 'Will you go to the city tomorrow?' Select the correct future question:",
+              "question_translation": null,
+              "correct_answer": "Miyaad doonaysaa inaad tagto magaalada berri?",
+              "options": [
+                "Miyaad tagtay magaalada berri?",
+                "Miyaad doonaysaa inaad tagto magaalada berri?",
+                "Ma tagaysaa magaalada berri?",
+                "Waydin doonaysaan inaad tagto magaalada berri?"
+              ],
+              "hint": "Use the doon + subjunctive future construction with the question form.",
+              "explanation": "Miyaad doonaysaa inaad tagto magaalada berri? = Will you go to the city tomorrow? Miyaad = ma + aad (question, you); doonaysaa = will (2nd person); inaad = that you; tagto = you go (subjunctive); magaalada = the city; berri = tomorrow. This uses the full doon + in + subjunctive future pattern in a question.",
+              "difficulty": "hard",
+              "points": 20
+            },
+            {
+              "order_index": 4,
+              "type": "fill_blank",
+              "question": "Translate: 'If he comes, I will give him tea.' Haddii uu ___, waan u ___ shaah. (come-SUBJ, give-FUT)",
+              "question_translation": null,
+              "correct_answer": "yimaado,siin doonayaa",
+              "options": [
+                "yimaado,siin doonayaa"
+              ],
+              "hint": "Use subjunctive for the condition, doon + infinitive for the future consequence.",
+              "explanation": "Haddii uu yimaado, waan u siin doonayaa shaah = If he comes, I will give him tea. Yimaado = he comes (subjunctive); siin doonayaa = will give (future auxiliary). U = to/for (benefactive preposition) marks the recipient. Shaah = tea. The subjunctive -o ending is used after haddii.",
+              "difficulty": "hard",
+              "points": 25
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "Analyze: 'Guriga ee ku yaal magaalada wuu weyn yahay' (The house that is in the city is big). Identify each grammatical component.",
+              "question_translation": null,
+              "correct_answer": "Guriga:head noun (definite)|ee:relative marker|ku yaal:locational verb|magaalada:location|wuu:3rd person masc|weyn:big|yahay:is",
+              "options": [
+                "Guriga:head noun (definite)|ee:relative marker|ku yaal:locational verb|magaalada:location|wuu:3rd person masc|weyn:big|yahay:is"
+              ],
+              "hint": "This is a complex sentence with a relative clause + equational sentence.",
+              "explanation": "Guriga = the house (head noun, definite); ee = relative marker; ku yaal = is located (locational compound verb: ku 'in' + yaal 'is located'); magaalada = the city; wuu = he/it is (masc); weyn = big; yahay = is. The relative clause 'ee ku yaal magaalada' modifies guriga. The main clause 'wuu weyn yahay' predicates 'big' of the house.",
+              "difficulty": "hard",
+              "points": 30
+            },
+            {
+              "order_index": 6,
+              "type": "word_bank",
+              "question": "Build the Somali sentence for: 'The books that were read are good.' Use: buugagga, ee, la, akhriyay, way, wanaagsan, yihiin.",
+              "question_translation": null,
+              "correct_answer": "Buugagga ee la akhriyay way wanaagsan yihiin",
+              "options": [
+                "Buugagga",
+                "ee",
+                "la",
+                "akhriyay",
+                "way",
+                "wanaagsan",
+                "yihiin"
+              ],
+              "hint": "Buugagga = the books; ee la akhriyay = that were read (passive); way wanaagsan yihiin = they are good.",
+              "explanation": "Buugagga ee la akhriyay way wanaagsan yihiin = The books that were read are good. Buugagga = the books (plural definite); ee = relative marker; la = passive unspecified agent; akhriyay = read; way = they are; wanaagsan = good; yihiin = are (plural copula). This combines three complex structures: plural noun, passive voice in relative clause, and adjectival predication with plural agreement.",
+              "difficulty": "hard",
+              "points": 30
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "order_index": 2,
+          "title": "Free Composition",
+          "description": "Create original Somali compositions using all grammar learned, with guided prompts for self-introduction, daily routines, and letter writing.",
+          "grammar_topic": "Composition",
+          "cultural_note": "Written composition in Somali has a rich tradition. Somali was one of the first African languages to develop a fully phonetic Latin orthography (1972), leading to rapid literacy growth. Letter writing, poetry, and prose composition are valued skills.",
+          "estimated_minutes": 25,
+          "difficulty": "hard",
+          "exercises": [
+            {
+              "order_index": 1,
+              "type": "multiple_choice",
+              "question": "Which of the following topics would be most culturally appropriate for a short composition in Somali?",
+              "question_translation": null,
+              "correct_answer": "A description of your family and hometown",
+              "options": [
+                "A critique of Somali politics",
+                "A description of your family and hometown",
+                "A complaint about local customs",
+                "An argument about religion"
+              ],
+              "hint": "Cultural appropriateness is important for language learners.",
+              "explanation": "A description of family and hometown (qoyska iyo deegaankaaga) is the most culturally appropriate topic. Family lineage and place of origin are central to Somali identity. Beginning compositions with family descriptions shows respect for cultural values and allows practice of possessive constructions, noun cases, and equational sentences.",
+              "difficulty": "easy",
+              "points": 10
+            },
+            {
+              "order_index": 2,
+              "type": "fill_blank",
+              "question": "Write a self-introduction using: '___ [name] waan ku soo dhaweynayaa. Waxaan ahay ___ [nationality]. Waxaan ka imid ___ [country].' (I welcome you. I am ___. I come from ___.)",
+              "question_translation": null,
+              "correct_answer": "Magacaygu",
+              "options": [
+                "Magacaygu",
+                "Is ka warran"
+              ],
+              "hint": "Magacaygu = my name (possessive).",
+              "explanation": "Is ka warran! Magacaygu waa [name]. Waxaan ahay [nationality]. Waxaan ka imid [country]. = Hello! My name is [name]. I am [nationality]. I come from [country]. Magacaygu = my name (magac 'name' + -aygu 'my'). Waxaan ahay = I am. Waxaan ka imid = I came from / I am from.",
+              "difficulty": "medium",
+              "points": 20
+            },
+            {
+              "order_index": 3,
+              "type": "sentence_constructor",
+              "question": "Compose: 'I drink tea every morning' using: waxaan | cabaa | shaah | subax | walba.",
+              "question_translation": null,
+              "correct_answer": "Waxaan cabaa shaah subax walba",
+              "options": [
+                "Waxaan",
+                "cabaa",
+                "shaah",
+                "subax",
+                "walba"
+              ],
+              "hint": "Subax walba = every morning.",
+              "explanation": "Waxaan cabaa shaah subax walba = I drink tea every morning. Waxaan = I (declarative); cabaa = I drink (present habitual); shaah = tea; subax walba = every morning. Walba = every/all, placed after the noun it modifies. This sentence uses present habitual for a daily routine.",
+              "difficulty": "medium",
+              "points": 15
+            },
+            {
+              "order_index": 4,
+              "type": "fill_blank",
+              "question": "Complete the conditional: 'Haddii aan ___ shaah, waan ___' (If I drink tea, I relax). Use 'cabbo' and 'nasanahay'.",
+              "question_translation": null,
+              "correct_answer": "cabbo,nasanahay",
+              "options": [
+                "cabbo,nasanahay"
+              ],
+              "hint": "The protasis uses subjunctive; the apodosis uses present habitual.",
+              "explanation": "Haddii aan cabbo shaah, waan nasanahay = If I drink tea, I relax. Cabbo = I drink (subjunctive); nasanahay = I relax/am relaxed (present habitual). The conditional expresses a habitual relationship between drinking tea and relaxing.",
+              "difficulty": "medium",
+              "points": 20
+            },
+            {
+              "order_index": 5,
+              "type": "grammar_identify",
+              "question": "For a composition describing your daily routine, what grammatical forms would you need?",
+              "question_translation": null,
+              "correct_answer": "Present habitual (-aa/-taa), past tense (-ay), haddii + subjunctive",
+              "options": [
+                "Present habitual (-aa/-taa), past tense (-ay), haddii + subjunctive",
+                "Only present habitual forms",
+                "Only past tense forms",
+                "Imperative and vocative forms"
+              ],
+              "hint": "A daily routine composition requires mixing tenses appropriately.",
+              "explanation": "A daily routine composition requires: Present habitual (-aa/-taa) for regular activities: 'Waxaan kacaa subaxdii' = I wake up in the morning. Past tense (-ay) for specific events: 'Shalay waxaan akhriyay buug' = Yesterday I read a book. Conditional (haddii + subjunctive) for dependent activities: 'Haddii aan shaah cabbo, waan shaqeyaa' = If I drink tea, I work.",
+              "difficulty": "medium",
+              "points": 20
+            },
+            {
+              "order_index": 6,
+              "type": "sentence_constructor",
+              "question": "Write a closing: 'Peace upon you! I greet you. I hope you are well.' Use: Nabad | galyo | waxaan | ku | salaamaa | waan | rajaynayaa | inaad | fiican | tahay.",
+              "question_translation": null,
+              "correct_answer": "Nabad galyo! Waxaan ku salaamaa. Waan rajaynayaa inaad fiican tahay.",
+              "options": [
+                "Nabad",
+                "galyo!",
+                "Waxaan",
+                "ku",
+                "salaamaa.",
+                "Waan",
+                "rajiynayaa",
+                "inaad",
+                "fiican",
+                "tahay."
+              ],
+              "hint": "A typical Somali letter closing.",
+              "explanation": "Nabad galyo! Waxaan ku salaamaa. Waan rajaynayaa inaad fiican tahay. = Welcome/Farewell! I greet you. I hope that you are well. Nabad galyo = peace upon entry; Waxaan ku salaamaa = I greet you (ku = you, salaamaa = I greet); Waan rajaynayaa inaad fiican tahay = I hope that you are fine (rajaynayaa = I hope, inaad = that you, fiican = fine, tahay = you are).",
+              "difficulty": "medium",
+              "points": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
